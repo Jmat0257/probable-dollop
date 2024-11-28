@@ -3308,12 +3308,6 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2024-11-26 03:00:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-11-26 02:19:10 +0000"
@@ -3323,6 +3317,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-11-26 02:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-11-26 03:00:36 +0000"
     },
     "done": true
   },
