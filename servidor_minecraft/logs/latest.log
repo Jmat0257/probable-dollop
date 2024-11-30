@@ -1,26 +1,28 @@
-[01:59:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:59:44] [ServerMain/INFO]: Loaded 1175 recipes
-[01:59:44] [ServerMain/INFO]: Loaded 1276 advancements
-[01:59:45] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[01:59:45] [Server thread/INFO]: Loading properties
-[01:59:45] [Server thread/INFO]: Default game type: SURVIVAL
-[01:59:45] [Server thread/INFO]: Generating keypair
-[01:59:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:59:46] [Server thread/INFO]: Using epoll channel type
-[01:59:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:59:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:59:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:59:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:59:46] [Server thread/INFO]: Preparing level "world"
-[01:59:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:59:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:55] [Server thread/INFO]: Time elapsed: 3060 ms
-[01:59:55] [Server thread/INFO]: Done (9.584s)! For help, type "help"
-[02:00:01] [Server thread/INFO]: Jmat_2[/127.31.58.135:42571] logged in with entity id 4 at (2487.682015351664, 64.0, 697.0332118954548)
-[02:00:01] [Server thread/INFO]: Jmat_2 joined the game
-[02:00:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[00:43:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:43:39] [ServerMain/INFO]: Loaded 1175 recipes
+[00:43:39] [ServerMain/INFO]: Loaded 1276 advancements
+[00:43:40] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[00:43:40] [Server thread/INFO]: Loading properties
+[00:43:40] [Server thread/INFO]: Default game type: SURVIVAL
+[00:43:40] [Server thread/INFO]: Generating keypair
+[00:43:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:43:40] [Server thread/INFO]: Using epoll channel type
+[00:43:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:43:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:43:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:43:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:43:40] [Server thread/INFO]: Preparing level "world"
+[00:43:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:43:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:43:50] [Server thread/INFO]: Time elapsed: 3166 ms
+[00:43:50] [Server thread/INFO]: Done (9.452s)! For help, type "help"
+[00:43:56] [Server thread/INFO]: Jmat_2[/127.31.58.135:46583] logged in with entity id 4 at (2463.2200524006635, 64.0, 671.1488696181729)
+[00:43:57] [Server thread/INFO]: Jmat_2 joined the game
+[00:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[00:55:44] [Server thread/INFO]: [Not Secure] <Jmat_2> 2515 701
