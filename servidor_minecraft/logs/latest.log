@@ -26,3 +26,7 @@
 [00:43:57] [Server thread/INFO]: Jmat_2 joined the game
 [00:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
 [00:55:44] [Server thread/INFO]: [Not Secure] <Jmat_2> 2515 701
+[01:13:46] [Server thread/INFO]: Villager cmm['Farmer'/184, l='ServerLevel[world]', x=2486.33, y=60.94, z=703.51] died, message: 'Farmer was slain by Zombie'
+[01:16:55] [Server thread/INFO]: Jmat_2 was shot by Skeleton
+[01:20:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2483, y=65, z=725} iz{x=2484, y=64, z=724}
+[01:20:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2483, y=65, z=725} iz{x=2484, y=64, z=724}
