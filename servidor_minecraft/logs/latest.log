@@ -1,34 +1,119 @@
-[00:43:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:43:39] [ServerMain/INFO]: Loaded 1175 recipes
-[00:43:39] [ServerMain/INFO]: Loaded 1276 advancements
-[00:43:40] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[00:43:40] [Server thread/INFO]: Loading properties
-[00:43:40] [Server thread/INFO]: Default game type: SURVIVAL
-[00:43:40] [Server thread/INFO]: Generating keypair
-[00:43:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:43:40] [Server thread/INFO]: Using epoll channel type
-[00:43:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:43:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:43:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:43:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:43:40] [Server thread/INFO]: Preparing level "world"
-[00:43:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:43:50] [Server thread/INFO]: Time elapsed: 3166 ms
-[00:43:50] [Server thread/INFO]: Done (9.452s)! For help, type "help"
-[00:43:56] [Server thread/INFO]: Jmat_2[/127.31.58.135:46583] logged in with entity id 4 at (2463.2200524006635, 64.0, 671.1488696181729)
-[00:43:57] [Server thread/INFO]: Jmat_2 joined the game
-[00:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
-[00:55:44] [Server thread/INFO]: [Not Secure] <Jmat_2> 2515 701
-[01:13:46] [Server thread/INFO]: Villager cmm['Farmer'/184, l='ServerLevel[world]', x=2486.33, y=60.94, z=703.51] died, message: 'Farmer was slain by Zombie'
-[01:16:55] [Server thread/INFO]: Jmat_2 was shot by Skeleton
-[01:20:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2483, y=65, z=725} iz{x=2484, y=64, z=724}
-[01:20:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2483, y=65, z=725} iz{x=2484, y=64, z=724}
-[01:28:48] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[01:28:48] [Server thread/INFO]: Jmat_2 left the game
+[17:40:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:40:23] [ServerMain/INFO]: Loaded 1175 recipes
+[17:40:23] [ServerMain/INFO]: Loaded 1276 advancements
+[17:40:24] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[17:40:24] [Server thread/INFO]: Loading properties
+[17:40:24] [Server thread/INFO]: Default game type: SURVIVAL
+[17:40:24] [Server thread/INFO]: Generating keypair
+[17:40:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:40:24] [Server thread/INFO]: Using epoll channel type
+[17:40:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:40:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:40:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:40:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:40:25] [Server thread/INFO]: Preparing level "world"
+[17:40:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:40:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:40:36] [Server thread/INFO]: Time elapsed: 4522 ms
+[17:40:36] [Server thread/INFO]: Done (11.061s)! For help, type "help"
+[17:40:43] [Server thread/INFO]: Jmat_2[/127.31.58.135:51409] logged in with entity id 4 at (2492.889020156843, 63.0, 709.9701371967038)
+[17:40:44] [Server thread/INFO]: Jmat_2 joined the game
+[17:40:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[17:45:13] [Server thread/INFO]: mohamed_la_punta[/127.176.114.34:36631] logged in with entity id 1248 at (2494.4280905922583, 64.0, 685.3973461785495)
+[17:45:13] [Server thread/INFO]: mohamed_la_punta joined the game
+[17:47:31] [Server thread/INFO]: nael_binbolo[/127.171.65.9:57281] logged in with entity id 1748 at (-51.5, 64.0, 61.5)
+[17:47:31] [Server thread/INFO]: nael_binbolo joined the game
+[17:47:34] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[17:47:34] [Server thread/INFO]: nael_binbolo left the game
+[17:47:40] [Server thread/INFO]: [Not Secure] <Jmat_2> 2500 677
+[17:47:42] [Server thread/INFO]: nael_binbolo[/127.171.65.9:37011] logged in with entity id 2040 at (-51.5, 64.0, 61.5)
+[17:47:42] [Server thread/INFO]: nael_binbolo joined the game
+[17:47:43] [Server thread/INFO]: [Not Secure] <Jmat_2> 2500 677
+[17:49:59] [Server thread/INFO]: nael_binbolo has made the advancement [Stone Age]
+[17:50:27] [Server thread/INFO]: nael_binbolo has made the advancement [Getting an Upgrade]
+[17:56:25] [Server thread/INFO]: nael_binbolo was impaled by Drowned
+[17:56:30] [Server thread/WARN]: nael_binbolo moved too quickly! 34.44983470762031,-0.49090000152587976,8.255160411393149
+[17:57:03] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[17:57:03] [Server thread/INFO]: nael_binbolo left the game
+[17:57:18] [Server thread/INFO]: nael_binbolo[/127.171.65.9:50173] logged in with entity id 8547 at (-32.26474856895762, 63.0, 60.05786895584272)
+[17:57:18] [Server thread/INFO]: nael_binbolo joined the game
+[17:58:03] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[17:58:03] [Server thread/INFO]: nael_binbolo left the game
+[17:58:03] [Server thread/WARN]: handleDisconnection() called twice
+[17:58:18] [Server thread/INFO]: nael_binbolo[/127.171.65.9:50139] logged in with entity id 9267 at (-34.73187290673875, 63.0, 62.487459800016524)
+[17:58:18] [Server thread/INFO]: nael_binbolo joined the game
+[17:58:59] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
+[17:58:59] [Server thread/INFO]: mohamed_la_punta left the game
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 10.39999728798955,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 10.799997183681455,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 11.199997079373361,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 11.599996975065267,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 11.999996870757172,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 12.399996766449078,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 12.799996662140984,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 13.19999655783289,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 13.599996453524795,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 13.999996349216701,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 14.399996244908607,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 14.799996140600513,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 15.199996036292418,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 15.599995931984324,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 15.99999582767623,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 16.399995723368136,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 16.79999561906004,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 17.199995514751947,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 17.599995410443853,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 17.99999530613576,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 18.399995201827664,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 18.79999509751957,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 19.199994993211476,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 10.39999728798955,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 10.799997183681455,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 11.199997079373361,0.0,0.0
+[17:59:56] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! 11.599996975065267,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -24.799993532898156,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -14.799996140600513,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -14.799996140600513,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -14.799996140600513,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -14.799996140600513,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -14.799996140600513,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -14.399996244908607,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -13.999996349216701,0.0,0.0
+[17:59:58] [Server thread/WARN]: Birch Boat (vehicle of nael_binbolo) moved too quickly! -13.599996453524795,0.0,0.0
+[18:01:03] [Server thread/INFO]: nael_binbolo has made the advancement [Ice Bucket Challenge]
+[18:03:21] [Server thread/INFO]: nael_binbolo has made the advancement [Acquire Hardware]
+[18:05:20] [Server thread/INFO]: [Not Secure] <Jmat_2> 2500 677
+[18:05:22] [Server thread/INFO]: [Not Secure] <Jmat_2> 2500 677
+[18:06:28] [Server thread/INFO]: nael_binbolo fell from a high place
+[18:06:52] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[18:06:52] [Server thread/INFO]: nael_binbolo left the game
