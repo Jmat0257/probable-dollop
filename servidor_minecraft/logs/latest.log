@@ -98,3 +98,6 @@
 [23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2422, y=65, z=646} iz{x=2423, y=63, z=644}
 [23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2422, y=65, z=646} iz{x=2423, y=63, z=644}
 [23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2423, y=65, z=646} iz{x=2423, y=63, z=644}
+[23:36:17] [Server thread/INFO]: Villager cmm['Farmer'/17648, l='ServerLevel[world]', x=2494.49, y=60.94, z=722.44] died, message: 'Farmer was slain by Zombie'
+[23:36:40] [Server thread/INFO]: Villager cmm['Villager'/17647, l='ServerLevel[world]', x=2496.76, y=60.94, z=721.16] died, message: 'Villager was slain by Zombie Villager'
+[23:39:06] [Server thread/INFO]: Made Jmat_2 a server operator
