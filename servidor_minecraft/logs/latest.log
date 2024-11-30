@@ -101,3 +101,5 @@
 [23:36:17] [Server thread/INFO]: Villager cmm['Farmer'/17648, l='ServerLevel[world]', x=2494.49, y=60.94, z=722.44] died, message: 'Farmer was slain by Zombie'
 [23:36:40] [Server thread/INFO]: Villager cmm['Villager'/17647, l='ServerLevel[world]', x=2496.76, y=60.94, z=721.16] died, message: 'Villager was slain by Zombie Villager'
 [23:39:06] [Server thread/INFO]: Made Jmat_2 a server operator
+[23:46:16] [Server thread/INFO]: Villager cmm['Villager'/22600, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
+[23:48:36] [Server thread/INFO]: [Not Secure] <Jmat_2> 2746 615
