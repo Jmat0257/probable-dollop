@@ -30,3 +30,5 @@
 [01:16:55] [Server thread/INFO]: Jmat_2 was shot by Skeleton
 [01:20:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2483, y=65, z=725} iz{x=2484, y=64, z=724}
 [01:20:48] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2483, y=65, z=725} iz{x=2484, y=64, z=724}
+[01:28:48] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[01:28:48] [Server thread/INFO]: Jmat_2 left the game
