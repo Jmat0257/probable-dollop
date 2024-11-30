@@ -87,3 +87,14 @@
 [22:52:42] [Server thread/INFO]: Jmat_2 has made the advancement [Hot Stuff]
 [23:03:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [23:03:43] [Server thread/INFO]: a<--[HERE]
+[23:26:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2543, y=66, z=694} iz{x=2541, y=47, z=697}
+[23:28:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2441, y=68, z=694} iz{x=2439, y=66, z=694}
+[23:28:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2441, y=68, z=694} iz{x=2439, y=66, z=694}
+[23:28:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2441, y=68, z=694} iz{x=2439, y=66, z=694}
+[23:28:06] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2430, y=67, z=690} iz{x=2429, y=66, z=691}
+[23:28:06] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2431, y=67, z=691} iz{x=2429, y=66, z=691}
+[23:30:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2426, y=65, z=662} iz{x=2424, y=63, z=662}
+[23:30:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2422, y=65, z=658} iz{x=2421, y=63, z=658}
+[23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2422, y=65, z=646} iz{x=2423, y=63, z=644}
+[23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2422, y=65, z=646} iz{x=2423, y=63, z=644}
+[23:30:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2423, y=65, z=646} iz{x=2423, y=63, z=644}
