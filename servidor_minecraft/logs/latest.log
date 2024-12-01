@@ -87,3 +87,6 @@
 [18:17:18] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
 [18:17:18] [Server thread/INFO]: mohamed_la_punta left the game
 [18:22:43] [Server thread/INFO]: Villager cmm['Villager'/10166, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:34:45] [Server thread/INFO]: Leytter lost connection: Disconnected
+[18:34:45] [Server thread/INFO]: Leytter left the game
+[18:36:54] [Server thread/INFO]: Villager cmm['Villager'/10186, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
