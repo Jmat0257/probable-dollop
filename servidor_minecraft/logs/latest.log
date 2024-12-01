@@ -49,3 +49,5 @@
 [03:04:00] [Server thread/INFO]: Leytter lost connection: Disconnected
 [03:04:00] [Server thread/INFO]: Leytter left the game
 [03:13:43] [Server thread/INFO]: Villager cmm['Villager'/117, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[03:15:30] [Server thread/INFO]: Villager cmm['Villager'/121, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[03:22:21] [Server thread/INFO]: Villager cmm['Villager'/102, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
