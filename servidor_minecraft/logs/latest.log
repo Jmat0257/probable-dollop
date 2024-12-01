@@ -30,3 +30,5 @@
 [16:01:48] [Server thread/INFO]: Jmat_2 joined the game
 [16:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
 [16:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5715ms or 114 ticks behind
+[16:20:13] [Server thread/INFO]: Villager cmm['Villager'/96, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[16:20:38] [Server thread/INFO]: Villager cmm['Villager'/97, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
