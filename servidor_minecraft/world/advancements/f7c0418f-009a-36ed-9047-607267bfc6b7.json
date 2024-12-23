@@ -1758,6 +1758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-23 19:45:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-23 18:52:31 +0000"
@@ -1785,6 +1791,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-23 18:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-23 19:39:13 +0000"
     },
     "done": true
   },
@@ -1845,6 +1857,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-23 18:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-23 19:45:39 +0000"
     },
     "done": true
   },
