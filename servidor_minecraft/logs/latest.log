@@ -48,3 +48,8 @@
 [19:08:33] [Server thread/INFO]: Villager cmm['Villager'/29429, l='ServerLevel[world]', x=2553.15, y=64.00, z=686.71] died, message: 'Villager was slain by Maycol_27x'
 [19:39:13] [Server thread/INFO]: Maycol_27x has made the advancement [Enchanter]
 [19:48:55] [Server thread/INFO]: Villager cmm['Librarian'/69, l='ServerLevel[world]', x=2576.49, y=63.00, z=683.49] died, message: 'Librarian went up in flames'
+[19:55:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2568, y=63, z=686} iz{x=2568, y=62, z=685}
+[19:58:59] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[19:58:59] [Server thread/INFO]: Jmat_2 left the game
+[19:59:05] [Server thread/INFO]: Jmat_2[/127.31.58.135:35501] logged in with entity id 66362 at (2447.1118312009735, 76.0, 691.6294675647426)
+[19:59:05] [Server thread/INFO]: Jmat_2 joined the game
