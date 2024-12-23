@@ -1,92 +1,34 @@
-[17:27:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:27:42] [ServerMain/INFO]: Loaded 1175 recipes
-[17:27:43] [ServerMain/INFO]: Loaded 1276 advancements
-[17:27:44] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[17:27:44] [Server thread/INFO]: Loading properties
-[17:27:44] [Server thread/INFO]: Default game type: SURVIVAL
-[17:27:44] [Server thread/INFO]: Generating keypair
-[17:27:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:27:45] [Server thread/INFO]: Using epoll channel type
-[17:27:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:27:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:27:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:27:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:27:45] [Server thread/INFO]: Preparing level "world"
-[17:27:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:27:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:28:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:28:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:28:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:28:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:28:02] [Server thread/INFO]: Time elapsed: 5228 ms
-[17:28:02] [Server thread/INFO]: Done (16.869s)! For help, type "help"
-[17:28:08] [Server thread/INFO]: Jmat_2[/127.31.58.135:46203] logged in with entity id 56 at (2498.5, 74.0, 686.5)
-[17:28:09] [Server thread/INFO]: Jmat_2 joined the game
-[17:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5326ms or 106 ticks behind
-[17:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5597ms or 111 ticks behind
-[17:31:03] [Server thread/INFO]: Villager cmm['Villager'/77, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[17:39:07] [Server thread/INFO]: Leytter[/127.194.163.136:59179] logged in with entity id 8109 at (2556.950635851232, 69.25220334025373, 689.280997148284)
-[17:39:07] [Server thread/INFO]: Leytter joined the game
-[17:39:26] [Server thread/INFO]: [Not Secure] <Leytter> tq
-[17:39:34] [Server thread/INFO]: [Not Secure] <Leytter> Q?
-[17:40:00] [Server thread/INFO]: Jmat_2 was slain by Zombie
-[17:40:22] [Server thread/INFO]: Leytter lost connection: Timed out
-[17:40:22] [Server thread/INFO]: Leytter left the game
-[17:40:22] [Server thread/WARN]: handleDisconnection() called twice
-[17:41:10] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2734, y=66, z=660} iz{x=2735, y=64, z=660}
-[17:41:16] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2776, y=64, z=662} iz{x=2775, y=64, z=662}
-[17:41:57] [Server thread/INFO]: Leytter[/127.194.163.136:49901] logged in with entity id 10109 at (2552.874846629361, 64.0, 686.3000000119209)
-[17:41:57] [Server thread/INFO]: Leytter joined the game
-[17:42:31] [Server thread/INFO]: [Not Secure] <Leytter> A APLANAR
-[17:42:31] [Server thread/INFO]: Villager cmm['Villager'/10155, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
-[17:43:00] [Server thread/INFO]: [Not Secure] <Leytter> dod tut a
-[17:43:20] [Server thread/INFO]: [Not Secure] <Leytter> un gato
-[17:43:41] [Server thread/INFO]: [Not Secure] <Leytter> zi
-[17:43:51] [Server thread/INFO]: Villager cmm['Villager'/10160, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[17:44:40] [Server thread/INFO]: [Not Secure] <Leytter> k lagaso
-[17:44:48] [Server thread/INFO]: [Not Secure] <Leytter> a mi
-[17:45:12] [Server thread/INFO]: [Not Secure] <Leytter> tengo 27 lvls
-[17:47:08] [Server thread/INFO]: [Not Secure] <Leytter> Q POBRESA
-[17:51:21] [Server thread/INFO]: [Not Secure] <Leytter> ven a ve
-[17:51:46] [Server thread/INFO]: [Not Secure] <Leytter> QUE USO LE DAMO
-[17:51:57] [Server thread/INFO]: [Not Secure] <Leytter> PA LO NARIZONE
-[17:52:44] [Server thread/INFO]: [Not Secure] <Leytter> MIna pa piedra
-[17:54:44] [Server thread/INFO]: Villager cmm['Villager'/10161, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[17:54:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[17:55:30] [Server thread/INFO]: [Not Secure] <Leytter> mina acutica
-[17:55:36] [Server thread/INFO]: [Not Secure] <Leytter> Q MRD
-[17:56:01] [Server thread/INFO]: [Not Secure] <Leytter> e grande
-[17:57:46] [Server thread/INFO]: Villager cmm['Villager'/10162, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[18:00:03] [Server thread/INFO]: [Not Secure] <Leytter> LA CASA de stiven de da un sida loco
-[18:00:20] [Server thread/INFO]: [Not Secure] <Leytter> LA QUEMO?
-[18:00:46] [Server thread/INFO]: [Not Secure] <Leytter> VOY POR CARBON
-[18:01:09] [Server thread/INFO]: [Not Secure] <Leytter> NA
-[18:01:16] [Server thread/INFO]: [Not Secure] <Leytter> TIENE POTENCIAL
-[18:01:38] [Server thread/INFO]: [Not Secure] <Leytter> PILA DE LAVA
-[18:01:51] [Server thread/INFO]: Villager cmm['Villager'/10164, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[18:02:13] [Server thread/INFO]: [Not Secure] <Leytter> diamante
-[18:03:06] [Server thread/INFO]: [Not Secure] <Leytter> YO E MATO 10 YAMI
-[18:06:40] [Server thread/INFO]: [Not Secure] <Leytter> MI MAMA LEVANTANDOME
-[18:09:37] [Server thread/INFO]: mohamed_la_punta[/127.6.97.232:35005] logged in with entity id 30432 at (2464.994263795057, 65.0, 632.8718909110853)
-[18:09:37] [Server thread/INFO]: mohamed_la_punta joined the game
-[18:10:40] [Server thread/INFO]: [Not Secure] <Leytter> pollos en femenino
-[18:10:56] [Server thread/INFO]: [Not Secure] <Leytter> hierro gratis
-[18:13:59] [Server thread/INFO]: [Not Secure] <Leytter> DAME UN ALDEANO ma conseguirle encantamiento
-[18:14:04] [Server thread/INFO]: [Not Secure] <Leytter> a
-[18:14:08] [Server thread/INFO]: [Not Secure] <Leytter> necesitamo palos
-[18:14:48] [Server thread/INFO]: [Not Secure] <Leytter> recuerdos
-[18:15:05] [Server thread/INFO]: [Not Secure] <Leytter> me calibro el golem aqui
-[18:16:23] [Server thread/INFO]: Villager cmm['Villager'/10159, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
-[18:17:06] [Server thread/INFO]: Villager cmm['Villager'/10157, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
-[18:17:18] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
-[18:17:18] [Server thread/INFO]: mohamed_la_punta left the game
-[18:22:43] [Server thread/INFO]: Villager cmm['Villager'/10166, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[18:34:45] [Server thread/INFO]: Leytter lost connection: Disconnected
-[18:34:45] [Server thread/INFO]: Leytter left the game
-[18:36:54] [Server thread/INFO]: Villager cmm['Villager'/10186, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:00:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:00:21] [ServerMain/INFO]: Loaded 1175 recipes
+[18:00:21] [ServerMain/INFO]: Loaded 1276 advancements
+[18:00:22] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[18:00:22] [Server thread/INFO]: Loading properties
+[18:00:22] [Server thread/INFO]: Default game type: SURVIVAL
+[18:00:22] [Server thread/INFO]: Generating keypair
+[18:00:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:00:23] [Server thread/INFO]: Using epoll channel type
+[18:00:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:00:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:00:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:00:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:00:23] [Server thread/INFO]: Preparing level "world"
+[18:00:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:00:38] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[18:00:38] [Server thread/INFO]: Time elapsed: 5641 ms
+[18:00:38] [Server thread/INFO]: Done (15.443s)! For help, type "help"
+[18:01:29] [Server thread/INFO]: Jmat_2[/127.31.58.135:40839] logged in with entity id 56 at (2488.300000011921, 55.0, 675.6999999880791)
+[18:01:29] [Server thread/INFO]: Jmat_2 joined the game
+[18:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[18:09:23] [Server thread/INFO]: Maycol_27x[/127.137.81.102:37889] logged in with entity id 1899 at (2497.553517417612, 69.5625, 684.0035981089943)
+[18:09:23] [Server thread/INFO]: Maycol_27x joined the game
