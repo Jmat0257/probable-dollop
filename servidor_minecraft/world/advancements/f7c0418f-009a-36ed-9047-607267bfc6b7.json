@@ -838,6 +838,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-23 18:23:26 +0000",
+      "minecraft:piglin": "2024-12-23 20:57:03 +0000",
+      "minecraft:magma_cube": "2024-12-23 20:53:00 +0000",
       "minecraft:spider": "2024-11-10 19:39:34 +0000",
       "minecraft:zombie": "2024-11-09 03:52:34 +0000",
       "minecraft:creeper": "2024-12-23 18:57:39 +0000",
@@ -1662,6 +1664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-23 21:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 18:23:05 +0000"
@@ -1707,6 +1715,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-23 18:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-23 20:56:21 +0000"
     },
     "done": true
   },
@@ -1785,6 +1799,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-23 18:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2024-12-23 20:56:21 +0000"
     },
     "done": true
   },
