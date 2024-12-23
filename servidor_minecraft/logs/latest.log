@@ -42,3 +42,5 @@
 [18:23:04] [Server thread/INFO]: Jmat_2 was shot by Skeleton
 [18:29:26] [Server thread/INFO]: Villager cmm['Villager'/79, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
 [18:29:33] [Server thread/INFO]: Villager cmm['Villager'/81, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[18:44:53] [Server thread/INFO]: Maycol_27x has made the advancement [What a Deal!]
