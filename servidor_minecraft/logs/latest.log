@@ -32,3 +32,13 @@
 [18:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
 [18:09:23] [Server thread/INFO]: Maycol_27x[/127.137.81.102:37889] logged in with entity id 1899 at (2497.553517417612, 69.5625, 684.0035981089943)
 [18:09:23] [Server thread/INFO]: Maycol_27x joined the game
+[18:10:13] [Server thread/INFO]: Villager cmm['Villager'/78, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:10:54] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[18:10:54] [Server thread/INFO]: Maycol_27x left the game
+[18:10:54] [Server thread/WARN]: handleDisconnection() called twice
+[18:11:08] [Server thread/INFO]: Maycol_27x[/127.137.81.102:38475] logged in with entity id 2152 at (2497.553517417612, 69.5625, 684.0035981089943)
+[18:11:08] [Server thread/INFO]: Maycol_27x joined the game
+[18:18:59] [Server thread/INFO]: Villager cmm['Villager'/75, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:23:04] [Server thread/INFO]: Jmat_2 was shot by Skeleton
+[18:29:26] [Server thread/INFO]: Villager cmm['Villager'/79, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:29:33] [Server thread/INFO]: Villager cmm['Villager'/81, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
