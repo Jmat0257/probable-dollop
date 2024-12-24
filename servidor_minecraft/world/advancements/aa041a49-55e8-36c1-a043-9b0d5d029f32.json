@@ -351,6 +351,7 @@
       "minecraft:phantom": "2024-11-15 01:58:17 +0000",
       "minecraft:zombified_piglin": "2024-11-16 17:49:56 +0000",
       "minecraft:wither_skeleton": "2024-11-16 17:48:38 +0000",
+      "minecraft:ghast": "2024-12-24 19:39:15 +0000",
       "minecraft:ender_dragon": "2024-12-24 06:46:52 +0000",
       "minecraft:hoglin": "2024-11-30 22:30:24 +0000",
       "minecraft:shulker": "2024-12-24 06:56:42 +0000",
@@ -359,6 +360,7 @@
       "minecraft:silverfish": "2024-12-24 06:35:46 +0000",
       "minecraft:magma_cube": "2024-11-16 17:40:03 +0000",
       "minecraft:spider": "2024-11-09 04:00:58 +0000",
+      "minecraft:piglin_brute": "2024-12-24 19:40:09 +0000",
       "minecraft:zombie": "2024-11-09 04:01:04 +0000",
       "minecraft:creeper": "2024-11-09 03:50:20 +0000",
       "minecraft:drowned": "2024-11-09 04:32:10 +0000",
@@ -3800,9 +3802,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2024-12-24 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-24 19:41:49 +0000"
     },
     "done": true
   },
@@ -3812,9 +3862,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-24 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-24 19:39:17 +0000"
     },
     "done": true
   },
@@ -3824,9 +3886,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2024-12-24 18:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
     },
     "done": true
   },
