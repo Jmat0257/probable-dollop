@@ -200,3 +200,48 @@
 [21:40:12] [Server thread/INFO]: Maycol_27x left the game
 [21:41:42] [Server thread/INFO]: Leytter lost connection: Disconnected
 [21:41:42] [Server thread/INFO]: Leytter left the game
+[21:42:15] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2503, y=62, z=654} iz{x=2503, y=63, z=654}
+[21:42:15] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2504, y=63, z=654} iz{x=2503, y=61, z=654}
+[21:42:39] [Server thread/INFO]: Villager cmm['Villager'/212387, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[21:42:40] [Server thread/INFO]: Villager cmm['Villager'/212386, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[21:44:52] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
+[21:44:52] [Server thread/INFO]: mohamed_la_punta left the game
+[21:48:13] [Server thread/INFO]: Jmat_2 has made the advancement [Voluntary Exile]
+[21:54:07] [Server thread/INFO]: Jmat_2 has made the advancement [Ol' Betsy]
+[21:58:25] [Server thread/INFO]: [Not Secure] <Jmat_2> Julian
+[21:58:28] [Server thread/INFO]: [Not Secure] <Jmat_2> Listo?
+[21:58:43] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[21:58:43] [Server thread/INFO]: OROCHIMARU left the game
+[22:03:40] [Server thread/INFO]: Villager cmm['Villager'/276250, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
+[22:05:36] [Server thread/INFO]: Villager cmm['Fisherman'/276305, l='ServerLevel[world]', x=2585.49, y=63.00, z=689.49] died, message: 'Fisherman was slain by Zombie'
+[22:05:54] [Server thread/INFO]: Villager cmm['Weaponsmith'/276403, l='ServerLevel[world]', x=2584.49, y=63.00, z=683.51] died, message: 'Weaponsmith was slain by Zombie'
+[22:05:54] [Server thread/INFO]: Villager cmm['Fisherman'/276303, l='ServerLevel[world]', x=2586.51, y=63.00, z=688.51] died, message: 'Fisherman was slain by Zombie'
+[22:06:06] [Server thread/INFO]: Villager cmm['Fisherman'/276301, l='ServerLevel[world]', x=2584.49, y=63.00, z=688.51] died, message: 'Fisherman was slain by Zombie'
+[22:06:19] [Server thread/INFO]: Villager cmm['Armorer'/276401, l='ServerLevel[world]', x=2586.49, y=63.00, z=683.49] died, message: 'Armorer was slain by Zombie'
+[22:06:24] [Server thread/INFO]: Villager cmm['Toolsmith'/276405, l='ServerLevel[world]', x=2582.51, y=63.00, z=683.49] died, message: 'Toolsmith was slain by Zombie'
+[22:06:37] [Server thread/INFO]: mohamed_la_punta[/127.254.223.180:56869] logged in with entity id 284653 at (2502.2457160950466, 62.94935289663077, 654.4063057198288)
+[22:06:37] [Server thread/INFO]: mohamed_la_punta joined the game
+[22:06:44] [Server thread/INFO]: Villager cmm['Fisherman'/276307, l='ServerLevel[world]', x=2583.51, y=63.00, z=689.49] died, message: 'Fisherman was slain by Zombie'
+[22:06:52] [Server thread/INFO]: Villager cmm['Fisherman'/276299, l='ServerLevel[world]', x=2582.51, y=63.00, z=688.51] died, message: 'Fisherman was slain by Zombie'
+[22:07:13] [Server thread/INFO]: Villager cmm['Librarian'/276409, l='ServerLevel[world]', x=2578.49, y=63.00, z=683.49] died, message: 'Librarian was slain by Zombie'
+[22:09:54] [Server thread/INFO]: mohamed_la_punta was shot by Pillager
+[22:11:10] [Server thread/INFO]: mohamed_la_punta was slain by Vindicator
+[22:11:39] [Server thread/INFO]: Villager cmm['Fisherman'/276309, l='ServerLevel[world]', x=2581.51, y=63.00, z=689.49] died, message: 'Fisherman was shot by Pillager'
+[22:11:53] [Server thread/INFO]: Villager cmm['Fisherman'/276311, l='ServerLevel[world]', x=2579.50, y=63.00, z=689.49] died, message: 'Fisherman was shot by Pillager'
+[22:12:37] [Server thread/INFO]: mohamed_la_punta was slain by Vindicator
+[22:13:22] [Server thread/INFO]: mohamed_la_punta was slain by Vindicator
+[22:13:45] [Server thread/INFO]: mohamed_la_punta was slain by Vindicator
+[22:14:17] [Server thread/INFO]: mohamed_la_punta was slain by Vindicator
+[22:14:28] [Server thread/INFO]: Villager cmm['Villager'/276252, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
+[22:15:17] [Server thread/INFO]: mohamed_la_punta was slain by Vindicator
+[22:15:32] [Server thread/INFO]: Jmat_2 was doomed to fall by Vex
+[22:15:32] [Server thread/INFO]: mohamed_la_punta was slain by Ravager
+[22:17:01] [Server thread/INFO]: mohamed_la_punta was slain by Vex
+[22:18:06] [Server thread/INFO]: mohamed_la_punta was slain by Ravager
+[22:18:18] [Server thread/INFO]: Jmat_2 was slain by Vindicator
+[22:19:33] [Server thread/INFO]: Jmat_2 has completed the challenge [Hero of the Village]
+[22:19:38] [Server thread/INFO]: Villager cmm['Farmer'/297405, l='ServerLevel[world]', x=2502.70, y=61.64, z=703.60] died, message: 'Farmer was slain by Iron Golem'
+[22:20:49] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
+[22:20:49] [Server thread/INFO]: mohamed_la_punta left the game
+[22:20:50] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[22:20:50] [Server thread/INFO]: Jmat_2 left the game

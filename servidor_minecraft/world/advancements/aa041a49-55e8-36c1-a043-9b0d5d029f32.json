@@ -348,24 +348,29 @@
       "minecraft:blaze": "2024-11-16 17:48:48 +0000",
       "minecraft:pillager": "2024-11-26 02:59:49 +0000",
       "minecraft:skeleton": "2024-11-09 03:33:36 +0000",
+      "minecraft:ravager": "2024-12-24 22:07:36 +0000",
+      "minecraft:ghast": "2024-12-24 19:39:15 +0000",
+      "minecraft:hoglin": "2024-11-30 22:30:24 +0000",
+      "minecraft:vindicator": "2024-12-24 22:00:59 +0000",
+      "minecraft:magma_cube": "2024-11-16 17:40:03 +0000",
+      "minecraft:spider": "2024-11-09 04:00:58 +0000",
+      "minecraft:piglin_brute": "2024-12-24 19:40:09 +0000",
+      "minecraft:creeper": "2024-11-09 03:50:20 +0000",
+      "minecraft:slime": "2024-11-09 14:46:53 +0000",
+      "minecraft:evoker": "2024-12-24 22:10:07 +0000",
       "minecraft:phantom": "2024-11-15 01:58:17 +0000",
       "minecraft:zombified_piglin": "2024-11-16 17:49:56 +0000",
+      "minecraft:witch": "2024-12-24 22:08:34 +0000",
       "minecraft:wither_skeleton": "2024-11-16 17:48:38 +0000",
-      "minecraft:ghast": "2024-12-24 19:39:15 +0000",
       "minecraft:ender_dragon": "2024-12-24 06:46:52 +0000",
-      "minecraft:hoglin": "2024-11-30 22:30:24 +0000",
       "minecraft:shulker": "2024-12-24 06:56:42 +0000",
       "minecraft:piglin": "2024-11-16 17:34:43 +0000",
       "minecraft:enderman": "2024-11-09 14:20:28 +0000",
       "minecraft:silverfish": "2024-12-24 06:35:46 +0000",
-      "minecraft:magma_cube": "2024-11-16 17:40:03 +0000",
-      "minecraft:spider": "2024-11-09 04:00:58 +0000",
-      "minecraft:piglin_brute": "2024-12-24 19:40:09 +0000",
+      "minecraft:vex": "2024-12-24 22:09:58 +0000",
       "minecraft:zombie": "2024-11-09 04:01:04 +0000",
-      "minecraft:creeper": "2024-11-09 03:50:20 +0000",
       "minecraft:drowned": "2024-11-09 04:32:10 +0000",
-      "minecraft:zombie_villager": "2024-11-16 17:27:19 +0000",
-      "minecraft:slime": "2024-11-09 14:46:53 +0000"
+      "minecraft:zombie_villager": "2024-11-16 17:27:19 +0000"
     },
     "done": false
   },
@@ -3874,9 +3879,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-24 21:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-24 22:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-24 19:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-24 22:19:33 +0000"
     },
     "done": true
   },
@@ -3892,9 +3915,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-24 22:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-12-24 19:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-24 21:54:07 +0000"
     },
     "done": true
   },
