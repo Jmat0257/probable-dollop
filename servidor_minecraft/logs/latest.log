@@ -67,3 +67,10 @@
 [15:49:52] [Server thread/INFO]: [Not Secure] <Leytter> toma
 [15:51:20] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
 [15:51:20] [Server thread/INFO]: mohamed_la_punta left the game
+[16:12:49] [Server thread/INFO]: Leytter lost connection: Timed out
+[16:12:49] [Server thread/INFO]: Leytter left the game
+[16:12:49] [Server thread/WARN]: handleDisconnection() called twice
+[16:13:58] [Server thread/INFO]: Leytter[/127.194.163.136:41685] logged in with entity id 78336 at (2598.719485686341, 65.00133597911214, 683.8582365652544)
+[16:13:58] [Server thread/INFO]: Leytter joined the game
+[16:14:50] [Server thread/INFO]: Leytter lost connection: Disconnected
+[16:14:50] [Server thread/INFO]: Leytter left the game
