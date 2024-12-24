@@ -1260,6 +1260,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-24 19:27:15 +0000",
+      "minecraft:zombified_piglin": "2024-12-24 21:23:32 +0000",
       "minecraft:enderman": "2024-12-24 21:10:45 +0000",
       "minecraft:magma_cube": "2024-12-24 21:00:44 +0000",
       "minecraft:witch": "2024-12-24 20:17:50 +0000",
