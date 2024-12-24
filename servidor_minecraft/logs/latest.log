@@ -46,3 +46,6 @@
 [05:03:37] [Server thread/INFO]: [Not Secure] <Jmat_2> 315 80
 [05:14:20] [Server thread/INFO]: [Not Secure] <Jmat_2> 315 80
 [05:35:51] [Server thread/INFO]: [Not Secure] <Jmat_2> 75
+[05:38:09] [Server thread/INFO]: Villager cmm['Villager'/34886, l='ServerLevel[world]', x=2491.20, y=60.94, z=721.65] died, message: 'Villager was slain by Zombie'
+[05:38:46] [Server thread/INFO]: Villager cmm['Farmer'/34889, l='ServerLevel[world]', x=2486.30, y=60.76, z=723.77] died, message: 'Farmer was slain by Zombie'
+[05:41:08] [Server thread/WARN]: Maycol_27x moved too quickly! 3.1306124209531845,-0.7967356006687112,9.710022768016529
