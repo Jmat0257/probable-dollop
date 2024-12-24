@@ -182,3 +182,31 @@
 [17:46:10] [Server thread/INFO]: Maycol_27x left the game
 [17:46:26] [Server thread/INFO]: mohamed_la_punta lost connection: Timed out
 [17:46:26] [Server thread/INFO]: mohamed_la_punta left the game
+[17:51:02] [Server thread/INFO]: OROCHIMARU[/127.76.101.112:45381] logged in with entity id 149481 at (-43.73263419145895, 68.53584062504456, 81.9441238020975)
+[17:51:02] [Server thread/INFO]: OROCHIMARU joined the game
+[17:51:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-43, y=67, z=78}
+[17:51:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-43, y=67, z=78}
+[17:51:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-41, y=68, z=79}
+[17:51:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-41, y=68, z=79}
+[17:51:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-40, y=68, z=76}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-41, y=68, z=76}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-39, y=68, z=78}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-39, y=68, z=77}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-39, y=68, z=77}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-40, y=68, z=76}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-39, y=68, z=76}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-39, y=68, z=76}
+[17:51:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=0, y=0, z=0} iz{x=-39, y=68, z=76}
+[17:52:33] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[17:52:33] [Server thread/INFO]: OROCHIMARU left the game
+[17:52:41] [Server thread/INFO]: OROCHIMARU[/127.76.101.112:59643] logged in with entity id 150035 at (-25.58713094833219, 81.0, 88.69999998807907)
+[17:52:41] [Server thread/INFO]: OROCHIMARU joined the game
+[17:58:18] [Server thread/INFO]: Maycol_27x[/127.137.81.102:39427] logged in with entity id 152420 at (-41.44716465772388, 69.0, 81.69829311461392)
+[17:58:18] [Server thread/INFO]: Maycol_27x joined the game
+[17:58:44] [Server thread/INFO]: OROCHIMARU was killed by Witch using magic
+[17:59:03] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[17:59:03] [Server thread/INFO]: Maycol_27x left the game
+[17:59:15] [Server thread/INFO]: Maycol_27x[/127.137.81.102:55193] logged in with entity id 152943 at (-41.44716465772388, 69.0, 81.69829311461392)
+[17:59:15] [Server thread/INFO]: Maycol_27x joined the game
+[17:59:26] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=70, z=81} iz{x=-38, y=69, z=80}
+[17:59:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=71, z=81} iz{x=-37, y=72, z=80}
