@@ -1747,5 +1747,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-24 19:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-24 19:55:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
