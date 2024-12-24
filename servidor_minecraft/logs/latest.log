@@ -50,3 +50,10 @@
 [05:38:46] [Server thread/INFO]: Villager cmm['Farmer'/34889, l='ServerLevel[world]', x=2486.30, y=60.76, z=723.77] died, message: 'Farmer was slain by Zombie'
 [05:41:08] [Server thread/WARN]: Maycol_27x moved too quickly! 3.1306124209531845,-0.7967356006687112,9.710022768016529
 [05:56:45] [Server thread/WARN]: Maycol_27x moved too quickly! 0.0,10.11500012665985,0.0
+[06:24:45] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1667, y=64, z=1135} iz{x=1667, y=63, z=1134}
+[06:24:45] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1667, y=64, z=1135} iz{x=1667, y=63, z=1134}
+[06:24:45] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1667, y=63, z=1132} iz{x=1667, y=62, z=1132}
+[06:28:02] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1064, y=63, z=1741} iz{x=1064, y=62, z=1740}
+[06:34:19] [Server thread/INFO]: Maycol_27x has made the advancement [Eye Spy]
+[06:34:28] [Server thread/INFO]: Jmat_2 has made the advancement [Eye Spy]
+[06:35:55] [Server thread/INFO]: [Not Secure] <Jmat_2> 900 -1995
