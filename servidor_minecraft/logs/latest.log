@@ -73,3 +73,11 @@
 [19:25:37] [Server thread/INFO]: OROCHIMARU joined the game
 [19:27:02] [Server thread/INFO]: Leytter[/127.194.163.136:54495] logged in with entity id 61043 at (2488.591688829478, 55.875, 687.335945930966)
 [19:27:02] [Server thread/INFO]: Leytter joined the game
+[19:27:15] [Server thread/INFO]: OROCHIMARU has made the advancement [Monster Hunter]
+[19:27:17] [Server thread/INFO]: [Not Secure] <Leytter> KE MRD
+[19:27:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:30:16] [Server thread/INFO]: Leytter has reached the goal [Sky's the Limit]
+[19:30:29] [Server thread/INFO]: Leytter has made the advancement [Ol' Betsy]
+[19:33:34] [Server thread/INFO]: mohamed_la_punta[/127.254.223.180:42621] logged in with entity id 72767 at (2488.8551390029847, 69.0, 685.056943774339)
+[19:33:34] [Server thread/INFO]: mohamed_la_punta joined the game
+[19:35:52] [Server thread/INFO]: Villager cmm['Villager'/1211, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.30] died, message: 'Villager was squished too much'

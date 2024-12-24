@@ -351,8 +351,9 @@
     "criteria": {
       "minecraft:blaze": "2024-11-23 15:13:21 +0000",
       "minecraft:skeleton": "2024-11-10 19:28:07 +0000",
-      "minecraft:piglin": "2024-11-16 18:01:00 +0000",
       "minecraft:phantom": "2024-11-26 02:49:27 +0000",
+      "minecraft:zombified_piglin": "2024-12-24 19:27:48 +0000",
+      "minecraft:piglin": "2024-11-16 18:01:00 +0000",
       "minecraft:enderman": "2024-11-10 19:27:57 +0000",
       "minecraft:magma_cube": "2024-11-15 01:02:15 +0000",
       "minecraft:spider": "2024-11-10 19:37:25 +0000",
@@ -2780,6 +2781,18 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-24 17:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-24 19:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-24 19:30:29 +0000"
     },
     "done": true
   },
