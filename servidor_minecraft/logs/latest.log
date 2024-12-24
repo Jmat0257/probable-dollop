@@ -37,3 +37,39 @@
 [18:53:25] [Server thread/INFO]: OROCHIMARU has made the advancement [What a Deal!]
 [18:53:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [18:55:52] [Server thread/INFO]: OROCHIMARU has made the advancement [Sweet Dreams]
+[18:57:05] [Server thread/INFO]: Villager cmm['Villager'/1226, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:57:07] [Server thread/INFO]: Maycol_27x[/127.137.81.102:58867] logged in with entity id 9809 at (2570.836920646825, 63.0, 685.5283610635489)
+[18:57:07] [Server thread/INFO]: Maycol_27x joined the game
+[18:57:37] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[18:57:37] [Server thread/INFO]: Maycol_27x left the game
+[18:57:38] [Server thread/WARN]: handleDisconnection() called twice
+[18:57:43] [Server thread/INFO]: Villager cmm['Villager'/1215, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:58:12] [Server thread/INFO]: OROCHIMARU has made the advancement [Cover Me with Diamonds]
+[18:58:12] [Server thread/INFO]: Maycol_27x[/127.137.81.102:34719] logged in with entity id 11586 at (2570.836920646825, 63.0, 685.5283610635489)
+[18:58:12] [Server thread/INFO]: Maycol_27x joined the game
+[18:58:42] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[18:58:42] [Server thread/INFO]: Maycol_27x left the game
+[18:58:57] [Server thread/INFO]: Maycol_27x[/127.137.81.102:55953] logged in with entity id 12828 at (2570.836920646825, 63.0, 685.5283610635489)
+[18:58:57] [Server thread/INFO]: Maycol_27x joined the game
+[18:59:35] [Server thread/WARN]: Jmat_2 moved too quickly! -16.687892994382764,-2.9154483786441148,-4.50510755163441
+[19:00:53] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[19:00:53] [Server thread/INFO]: Maycol_27x left the game
+[19:01:04] [Server thread/INFO]: Maycol_27x[/127.137.81.102:39213] logged in with entity id 16567 at (2573.1889025521714, 64.0, 703.3910399168174)
+[19:01:04] [Server thread/INFO]: Maycol_27x joined the game
+[19:05:11] [Server thread/INFO]: mohamed_la_punta[/127.254.223.180:59357] logged in with entity id 25501 at (319.5, 75.0, 80.05335132223877)
+[19:05:11] [Server thread/INFO]: mohamed_la_punta joined the game
+[19:08:03] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
+[19:08:03] [Server thread/INFO]: mohamed_la_punta left the game
+[19:16:14] [Server thread/INFO]: Villager cmm['Villager'/1220, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
+[19:16:28] [Server thread/INFO]: Villager cmm['Villager'/1229, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2449, y=81, z=691} iz{x=2450, y=81, z=690}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2449, y=80, z=691} iz{x=2450, y=81, z=690}
+[19:17:20] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2448, y=79, z=692} iz{x=2450, y=81, z=690}
+[19:19:24] [Server thread/INFO]: OROCHIMARU has made the advancement [Stone Age]
+[19:21:28] [Server thread/INFO]: OROCHIMARU has made the advancement [Diamonds!]
+[19:25:32] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[19:25:32] [Server thread/INFO]: OROCHIMARU left the game
+[19:25:37] [Server thread/INFO]: OROCHIMARU[/127.76.101.112:53073] logged in with entity id 58299 at (2781.3100790338926, -13.0, 465.66995390299206)
+[19:25:37] [Server thread/INFO]: OROCHIMARU joined the game
+[19:27:02] [Server thread/INFO]: Leytter[/127.194.163.136:54495] logged in with entity id 61043 at (2488.591688829478, 55.875, 687.335945930966)
+[19:27:02] [Server thread/INFO]: Leytter joined the game
