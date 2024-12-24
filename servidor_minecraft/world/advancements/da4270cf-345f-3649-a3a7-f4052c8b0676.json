@@ -2776,5 +2776,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-24 17:02:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
