@@ -2722,5 +2722,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-24 20:58:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
