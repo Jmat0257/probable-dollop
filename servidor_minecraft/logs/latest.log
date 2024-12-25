@@ -95,3 +95,17 @@
 [18:27:55] [Server thread/INFO]: [Not Secure] <Leytter> SI
 [18:28:01] [Server thread/INFO]: [Not Secure] <Leytter> LA MIA TA CERCA
 [18:28:22] [Server thread/INFO]: [Not Secure] <Leytter> YO CREo que es la misma
+[18:29:09] [Server thread/INFO]: [Not Secure] <Leytter> cño
+[18:29:31] [Server thread/INFO]: Leytter lost connection: Disconnected
+[18:29:31] [Server thread/INFO]: Leytter left the game
+[18:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[18:32:52] [Server thread/INFO]: Leytter[/127.194.163.136:56455] logged in with entity id 32980 at (2571.302712965036, 64.25220334025373, 686.2579930011121)
+[18:32:52] [Server thread/INFO]: Leytter joined the game
+[18:33:21] [Server thread/INFO]: [Not Secure] <Leytter> toy bug
+[18:34:44] [Server thread/INFO]: [Not Secure] <Leytter> voy a farmear netherite
+[18:35:06] [Server thread/INFO]: [Not Secure] <Leytter> YO lo que estoy -100 de ping
+[18:36:22] [Server thread/INFO]: Leytter lost connection: Timed out
+[18:36:22] [Server thread/INFO]: Leytter left the game
+[18:36:22] [Server thread/WARN]: handleDisconnection() called twice
+[18:36:42] [Server thread/INFO]: Leytter[/127.194.163.136:52645] logged in with entity id 37118 at (2516.712539325771, 67.16610926093821, 722.0225345688906)
+[18:36:42] [Server thread/INFO]: Leytter joined the game
