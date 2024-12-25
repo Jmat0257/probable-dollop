@@ -350,18 +350,24 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-11-23 15:13:21 +0000",
+      "minecraft:pillager": "2024-12-25 18:06:33 +0000",
       "minecraft:skeleton": "2024-11-10 19:28:07 +0000",
       "minecraft:phantom": "2024-11-26 02:49:27 +0000",
       "minecraft:zombified_piglin": "2024-12-24 19:27:48 +0000",
+      "minecraft:witch": "2024-12-25 18:07:56 +0000",
+      "minecraft:ravager": "2024-12-25 18:10:28 +0000",
       "minecraft:piglin": "2024-11-16 18:01:00 +0000",
+      "minecraft:vindicator": "2024-12-25 18:08:51 +0000",
       "minecraft:enderman": "2024-11-10 19:27:57 +0000",
       "minecraft:magma_cube": "2024-11-15 01:02:15 +0000",
       "minecraft:spider": "2024-11-10 19:37:25 +0000",
       "minecraft:piglin_brute": "2024-11-16 18:01:13 +0000",
+      "minecraft:vex": "2024-12-25 18:08:49 +0000",
       "minecraft:zombie": "2024-11-09 03:30:55 +0000",
       "minecraft:creeper": "2024-11-09 04:03:41 +0000",
       "minecraft:drowned": "2024-11-13 01:39:04 +0000",
-      "minecraft:zombie_villager": "2024-12-24 15:52:42 +0000"
+      "minecraft:zombie_villager": "2024-12-24 15:52:42 +0000",
+      "minecraft:evoker": "2024-12-25 18:10:38 +0000"
     },
     "done": false
   },
@@ -2802,6 +2808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-24 20:03:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2024-12-24 21:22:10 +0000"
@@ -2814,15 +2826,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-24 20:03:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-12-24 21:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-25 18:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-25 18:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-25 18:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-25 18:08:01 +0000"
     },
     "done": true
   },

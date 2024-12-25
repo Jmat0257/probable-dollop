@@ -841,17 +841,21 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-24 04:59:58 +0000",
+      "minecraft:pillager": "2024-12-25 18:08:03 +0000",
       "minecraft:skeleton": "2024-12-23 18:23:26 +0000",
+      "minecraft:witch": "2024-12-25 18:11:11 +0000",
+      "minecraft:wither_skeleton": "2024-12-24 05:01:58 +0000",
+      "minecraft:shulker": "2024-12-24 06:58:08 +0000",
       "minecraft:piglin": "2024-12-23 20:57:03 +0000",
+      "minecraft:vindicator": "2024-12-25 18:10:36 +0000",
       "minecraft:enderman": "2024-12-24 06:44:44 +0000",
       "minecraft:magma_cube": "2024-12-23 20:53:00 +0000",
       "minecraft:spider": "2024-11-10 19:39:34 +0000",
-      "minecraft:wither_skeleton": "2024-12-24 05:01:58 +0000",
       "minecraft:zombie": "2024-11-09 03:52:34 +0000",
       "minecraft:creeper": "2024-12-23 18:57:39 +0000",
       "minecraft:drowned": "2024-11-26 03:21:42 +0000",
       "minecraft:zombie_villager": "2024-12-25 18:01:14 +0000",
-      "minecraft:shulker": "2024-12-24 06:58:08 +0000"
+      "minecraft:evoker": "2024-12-25 18:09:19 +0000"
     },
     "done": false
   },
@@ -2729,9 +2733,39 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-25 18:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-25 18:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-25 18:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-25 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-25 18:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-25 18:13:11 +0000"
     },
     "done": true
   },
