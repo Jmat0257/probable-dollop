@@ -2917,6 +2917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 19:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2024-12-25 18:57:57 +0000"
@@ -2947,6 +2953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-25 19:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2024-12-25 18:58:04 +0000"
@@ -2956,6 +2968,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-25 18:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-25 19:14:16 +0000"
     },
     "done": true
   },

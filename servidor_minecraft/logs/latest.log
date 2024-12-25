@@ -174,3 +174,43 @@
 [19:09:33] [Server thread/INFO]: [Not Secure] <Leytter> 2
 [19:10:00] [Server thread/INFO]: [Not Secure] <Leytter> ME DIO 1
 [19:10:01] [Server thread/INFO]: [Not Secure] <Leytter> xd
+[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
+[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
+[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
+[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
+[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
+[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
+[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
+[19:11:36] [Server thread/WARN]: Leytter moved wrongly!
+[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=98, y=16, z=215} iz{x=98, y=16, z=216}
+[19:11:53] [Server thread/WARN]: Leytter moved wrongly!
+[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=98, y=16, z=215} iz{x=98, y=16, z=216}
+[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=215} iz{x=98, y=16, z=216}
+[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=99, y=16, z=215} iz{x=98, y=16, z=216}
+[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=99, y=16, z=215} iz{x=98, y=16, z=216}
+[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=99, y=16, z=215} iz{x=98, y=16, z=216}
+[19:12:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=227} iz{x=99, y=15, z=227}
+[19:12:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
+[19:12:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
+[19:12:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
+[19:12:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
+[19:12:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
+[19:12:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=106, y=16, z=242} iz{x=106, y=16, z=241}
+[19:13:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=94, y=16, z=244} iz{x=94, y=17, z=244}
+[19:13:10] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=90, y=14, z=244} iz{x=90, y=17, z=244}
+[19:13:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=68, y=14, z=246} iz{x=69, y=14, z=246}
+[19:14:16] [Server thread/INFO]: Leytter has made the advancement [Hidden in the Depths]
+[19:14:28] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=28, y=14, z=79} iz{x=28, y=15, z=79}
+[19:14:28] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=28, y=14, z=79} iz{x=28, y=15, z=79}
+[19:16:07] [Server thread/INFO]: [Not Secure] <Leytter> 2
+[19:16:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=863, y=15, z=-621} iz{x=863, y=15, z=-620}
+[19:16:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=862, y=15, z=-621} iz{x=863, y=15, z=-620}
+[19:17:59] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=224, y=15, z=225} iz{x=170, y=14, z=228}
+[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
+[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
+[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
+[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
+[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
+[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
+[19:19:49] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=742, y=17, z=-652} iz{x=741, y=17, z=-652}
+[19:20:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-3, y=15, z=232} iz{x=-3, y=15, z=233}
