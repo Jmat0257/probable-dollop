@@ -36,3 +36,14 @@
 [16:15:47] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=3358, y=65, z=7325} iz{x=3358, y=63, z=7325}
 [16:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4269ms or 85 ticks behind
 [16:24:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[16:32:51] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[16:32:51] [Server thread/INFO]: Jmat_2 left the game
+[16:34:48] [Server thread/INFO]: nael_binbolo[/127.171.65.9:50361] logged in with entity id 9847 at (776.1848988017703, 63.0, 425.52291099245963)
+[16:34:48] [Server thread/INFO]: nael_binbolo joined the game
+[16:36:43] [Server thread/INFO]: mohamed_la_punta[/127.243.31.22:56783] logged in with entity id 10715 at (2504.2009879627535, 64.0, 676.4573953117476)
+[16:36:43] [Server thread/INFO]: mohamed_la_punta joined the game
+[16:37:13] [Server thread/INFO]: mohamed_la_punta lost connection: Timed out
+[16:37:13] [Server thread/INFO]: mohamed_la_punta left the game
+[16:37:14] [Server thread/WARN]: handleDisconnection() called twice
+[16:37:31] [Server thread/INFO]: mohamed_la_punta[/127.243.31.22:51721] logged in with entity id 11750 at (2504.2009879627535, 64.0, 676.4573953117476)
+[16:37:31] [Server thread/INFO]: mohamed_la_punta joined the game
