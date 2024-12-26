@@ -221,3 +221,8 @@
 [19:54:10] [Server thread/INFO]: Jmat_2[/127.31.58.135:57695] logged in with entity id 139410 at (2571.300000011921, 60.0, 686.5500225512944)
 [19:54:10] [Server thread/INFO]: Jmat_2 joined the game
 [19:56:24] [Server thread/INFO]: OROCHIMARU has made the advancement [Crafting a New Look]
+[20:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[20:04:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:05:24] [Server thread/INFO]: Villager cmm['Villager'/123403, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[20:06:18] [Server thread/INFO]: Jmat_2 has made the advancement [Withering Heights]
+[20:12:40] [Server thread/WARN]: Jmat_2 moved wrongly!

@@ -369,6 +369,7 @@
       "minecraft:spider": "2024-11-09 04:00:58 +0000",
       "minecraft:piglin_brute": "2024-12-24 19:40:09 +0000",
       "minecraft:creeper": "2024-11-09 03:50:20 +0000",
+      "minecraft:wither": "2024-12-26 20:14:17 +0000",
       "minecraft:slime": "2024-11-09 14:46:53 +0000",
       "minecraft:evoker": "2024-12-24 22:10:07 +0000",
       "minecraft:phantom": "2024-11-15 01:58:17 +0000",
@@ -4359,6 +4360,30 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-26 18:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-26 19:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-26 19:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-26 20:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-26 20:14:18 +0000"
     },
     "done": true
   },
