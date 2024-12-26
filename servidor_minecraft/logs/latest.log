@@ -158,3 +158,12 @@
 [18:37:49] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=116, y=118, z=130} iz{x=117, y=118, z=134}
 [18:37:49] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=116, y=118, z=130} iz{x=117, y=118, z=134}
 [18:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18:46:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=104, y=17, z=131} iz{x=103, y=16, z=129}
+[18:46:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=104, y=17, z=131} iz{x=103, y=16, z=129}
+[18:46:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=104, y=17, z=131} iz{x=103, y=16, z=129}
+[18:46:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=104, y=17, z=131} iz{x=103, y=16, z=129}
+[18:46:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=104, y=17, z=131} iz{x=103, y=16, z=129}
+[18:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
+[18:54:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=12, y=17, z=182} iz{x=12, y=17, z=185}
+[18:55:28] [Server thread/INFO]: [Not Secure] <Jmat_2> 452 867
+[18:55:46] [Server thread/INFO]: [Not Secure] <Jmat_2> 452 867
