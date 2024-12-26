@@ -4169,5 +4169,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2024-12-26 16:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-26 16:18:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }
