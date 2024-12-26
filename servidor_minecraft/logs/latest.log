@@ -145,3 +145,7 @@
 [17:55:53] [Server thread/INFO]: Maycol_27x left the game
 [17:56:02] [Server thread/INFO]: Maycol_27x[/127.137.81.102:50397] logged in with entity id 64012 at (-46.84201513417503, 16.0, -205.57873449144145)
 [17:56:02] [Server thread/INFO]: Maycol_27x joined the game
+[18:06:43] [Server thread/INFO]: Villager cmm['Villager'/69352, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[18:07:20] [Server thread/INFO]: [Not Secure] <Jmat_2> 315 80
+[18:12:24] [Server thread/WARN]: Maycol_27x moved too quickly! -8.037038293071426,-0.16610926093821377,-6.459582871508445
+[18:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
