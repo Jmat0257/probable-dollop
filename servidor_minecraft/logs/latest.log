@@ -64,3 +64,16 @@
 [14:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
 [14:37:32] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
 [14:37:32] [Server thread/INFO]: nael_binbolo left the game
+[14:43:16] [Server thread/INFO]: [Not Secure] <Leytter> no tener
+[14:43:51] [Server thread/INFO]: [Not Secure] <Leytter> ORO¿
+[14:44:00] [Server thread/INFO]: [Not Secure] <Leytter> que traiga
+[14:44:22] [Server thread/INFO]: Leytter lost connection: Timed out
+[14:44:22] [Server thread/INFO]: Leytter left the game
+[14:44:22] [Server thread/WARN]: handleDisconnection() called twice
+[14:44:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d86cbd7[id=da4270cf-345f-3649-a3a7-f4052c8b0676,name=Leytter,properties={}] lost connection: Timed out
+[14:47:34] [Server thread/INFO]: Leytter[/127.194.163.136:42553] logged in with entity id 19797 at (2505.0100314283723, 64.0, 669.7950470746008)
+[14:47:34] [Server thread/INFO]: Leytter joined the game
+[14:47:35] [Server thread/WARN]: Jmat_2 moved too quickly! -15.907240996739347,-0.9359270156224397,8.976337953110487
+[14:47:50] [Server thread/WARN]: Jmat_2 moved too quickly! -16.13199644746328,-2.3701133285573093,9.375078393037484
+[14:48:04] [Server thread/INFO]: Leytter lost connection: Timed out
+[14:48:04] [Server thread/INFO]: Leytter left the game

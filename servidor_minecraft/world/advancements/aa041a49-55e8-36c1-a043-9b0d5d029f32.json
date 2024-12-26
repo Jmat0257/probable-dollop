@@ -12,6 +12,7 @@
       "minecraft:old_growth_pine_taiga": "2024-11-09 03:49:09 +0000",
       "minecraft:forest": "2024-11-09 03:46:51 +0000",
       "minecraft:taiga": "2024-11-09 03:38:38 +0000",
+      "minecraft:deep_ocean": "2024-12-26 14:47:24 +0000",
       "minecraft:deep_cold_ocean": "2024-11-10 18:45:10 +0000",
       "minecraft:ice_spikes": "2024-12-24 14:44:20 +0000",
       "minecraft:frozen_ocean": "2024-11-09 04:14:33 +0000",
@@ -3968,6 +3969,18 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-25 18:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-26 14:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-26 14:46:02 +0000"
     },
     "done": true
   },
