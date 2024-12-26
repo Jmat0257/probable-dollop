@@ -4200,6 +4200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2024-12-26 17:39:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-12-26 17:26:00 +0000"
@@ -4209,6 +4215,12 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2024-12-26 17:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-26 17:39:49 +0000"
     },
     "done": true
   },

@@ -926,9 +926,9 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "killed_dragon": "2024-12-26 17:22:32 +0000"
+      "has_shulker_shell": "2024-12-26 17:07:31 +0000"
     },
     "done": true
   },
@@ -946,33 +946,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-26 17:11:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-26 17:08:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2024-12-26 17:11:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-26 17:11:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/respawn_dragon": {
-    "criteria": {
-      "summoned_dragon": "2024-12-26 17:11:09 +0000"
     },
     "done": true
   },
@@ -988,6 +964,36 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-26 17:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-12-26 17:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:11:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-12-26 17:11:54 +0000"
@@ -1000,15 +1006,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_shulker_shell": "2024-12-26 17:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2024-12-26 17:09:44 +0000"
+      "killed_dragon": "2024-12-26 17:22:32 +0000"
     },
     "done": true
   },
