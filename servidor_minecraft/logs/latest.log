@@ -201,3 +201,13 @@
 [19:15:26] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=365, y=60, z=846} iz{x=365, y=59, z=847}
 [19:15:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=362, y=60, z=851} iz{x=362, y=60, z=849}
 [19:15:52] [Server thread/INFO]: Villager cmm['Villager'/123389, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[19:20:11] [Server thread/INFO]: Villager cmm['Villager'/123388, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[19:20:53] [Server thread/INFO]: Maycol_27x has made the advancement [Hot Stuff]
+[19:20:55] [Server thread/INFO]: OROCHIMARU has made the advancement [Hot Stuff]
+[19:21:11] [Server thread/WARN]: Maycol_27x was kicked for floating too long!
+[19:21:11] [Server thread/INFO]: Maycol_27x lost connection: Flying is not enabled on this server
+[19:21:11] [Server thread/INFO]: Maycol_27x left the game
+[19:22:11] [Server thread/INFO]: Maycol_27x[/127.137.81.102:55795] logged in with entity id 128950 at (2649.2459777599465, 70.00133597911214, 703.3729718341423)
+[19:22:11] [Server thread/INFO]: Maycol_27x joined the game
+[19:26:38] [Server thread/INFO]: [Not Secure] <Jmat_2> 452 867
+[19:26:39] [Server thread/INFO]: [Not Secure] <Jmat_2> 452 867
