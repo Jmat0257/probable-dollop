@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2024-11-09 14:26:39 +0000",
       "minecraft:snowy_slopes": "2024-12-24 14:45:17 +0000",
       "minecraft:old_growth_pine_taiga": "2024-11-09 03:49:09 +0000",
+      "minecraft:mushroom_fields": "2024-12-26 15:34:17 +0000",
       "minecraft:forest": "2024-11-09 03:46:51 +0000",
       "minecraft:taiga": "2024-11-09 03:38:38 +0000",
       "minecraft:deep_ocean": "2024-12-26 14:47:24 +0000",
@@ -19,12 +20,18 @@
       "minecraft:frozen_river": "2024-11-09 04:04:51 +0000",
       "minecraft:deep_frozen_ocean": "2024-11-10 19:03:36 +0000",
       "minecraft:ocean": "2024-11-09 03:37:04 +0000",
+      "minecraft:jungle": "2024-12-26 15:36:57 +0000",
       "minecraft:sunflower_plains": "2024-11-09 04:31:21 +0000",
       "minecraft:cherry_grove": "2024-11-23 18:37:34 +0000",
+      "minecraft:birch_forest": "2024-12-26 15:41:44 +0000",
+      "minecraft:windswept_hills": "2024-12-26 15:46:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-11-23 19:03:58 +0000",
       "minecraft:snowy_beach": "2024-11-09 04:14:29 +0000",
+      "minecraft:bamboo_jungle": "2024-12-26 15:40:20 +0000",
       "minecraft:beach": "2024-11-09 04:15:12 +0000",
       "minecraft:dark_forest": "2024-11-09 03:59:16 +0000",
+      "minecraft:mangrove_swamp": "2024-12-26 15:37:17 +0000",
+      "minecraft:sparse_jungle": "2024-12-26 15:36:58 +0000",
       "minecraft:river": "2024-11-09 03:46:40 +0000",
       "minecraft:snowy_plains": "2024-11-09 04:05:42 +0000",
       "minecraft:stony_shore": "2024-11-09 04:33:40 +0000",
@@ -33,6 +40,9 @@
       "minecraft:frozen_peaks": "2024-12-24 14:45:38 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-08 20:30:33 +0000",
       "minecraft:grove": "2024-11-23 19:04:36 +0000",
+      "minecraft:swamp": "2024-12-26 15:46:38 +0000",
+      "minecraft:meadow": "2024-12-26 15:43:19 +0000",
+      "minecraft:savanna": "2024-12-26 15:36:41 +0000",
       "minecraft:plains": "2024-11-09 04:15:20 +0000",
       "minecraft:jagged_peaks": "2024-12-24 19:04:53 +0000"
     },
@@ -3973,6 +3983,90 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-26 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-26 14:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-26 14:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-26 14:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-26 14:52:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-12-26 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-12-26 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-26 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-26 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-26 14:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-12-26 14:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-12-26 14:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-12-26 14:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-26 15:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-26 15:17:50 +0000"
@@ -3985,45 +4079,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2024-12-26 14:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2024-12-26 14:56:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2024-12-26 14:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2024-12-26 14:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
-    "criteria": {
-      "has_lapis_ore": "2024-12-26 14:56:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-26 15:17:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2024-12-26 15:17:21 +0000"
     },
     "done": true
   },
@@ -4051,12 +4109,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-26 14:52:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-26 15:17:50 +0000"
@@ -4066,12 +4118,6 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-26 15:17:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2024-12-26 14:59:01 +0000"
     },
     "done": true
   },
@@ -4087,12 +4133,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-26 14:28:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-26 15:17:50 +0000"
@@ -4105,27 +4145,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
-    "criteria": {
-      "has_deepslate_lapis_ore": "2024-12-26 14:56:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-26 15:17:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2024-12-26 14:59:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:host_armor_trim_smithing_template_smithing_trim": "2024-12-26 15:18:06 +0000"
     },
     "done": true
   },
@@ -4141,21 +4163,9 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "netherite_armor": "2024-12-26 14:30:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2024-12-26 14:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
-    "criteria": {
-      "has_lapis_ore": "2024-12-26 14:56:32 +0000"
+      "armor_trimmed_minecraft:host_armor_trim_smithing_template_smithing_trim": "2024-12-26 15:18:06 +0000"
     },
     "done": true
   },
