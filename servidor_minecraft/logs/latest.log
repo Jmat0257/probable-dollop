@@ -77,3 +77,21 @@
 [14:47:50] [Server thread/WARN]: Jmat_2 moved too quickly! -16.13199644746328,-2.3701133285573093,9.375078393037484
 [14:48:04] [Server thread/INFO]: Leytter lost connection: Timed out
 [14:48:04] [Server thread/INFO]: Leytter left the game
+[14:50:56] [Server thread/INFO]: Leytter[/127.194.163.136:51063] logged in with entity id 22996 at (2505.0100314283723, 64.0, 669.7950470746008)
+[14:50:56] [Server thread/INFO]: Leytter joined the game
+[14:52:10] [Server thread/INFO]: Leytter lost connection: Disconnected
+[14:52:10] [Server thread/INFO]: Leytter left the game
+[14:56:22] [Server thread/INFO]: Leytter[/127.194.163.136:54025] logged in with entity id 25224 at (2505.0100314283723, 64.0, 669.7950470746008)
+[14:56:22] [Server thread/INFO]: Leytter joined the game
+[14:56:44] [Server thread/INFO]: [Not Secure] <Leytter> ?
+[14:57:01] [Server thread/WARN]: Leytter moved too quickly! -10.105239976273424,0.6815583980583142,-1.0961720602568903
+[14:57:05] [Server thread/WARN]: Leytter was kicked for floating too long!
+[14:57:05] [Server thread/INFO]: Leytter lost connection: Flying is not enabled on this server
+[14:57:05] [Server thread/INFO]: Leytter left the game
+[14:57:14] [Server thread/INFO]: Leytter[/127.194.163.136:56607] logged in with entity id 26101 at (2494.1004344152993, 65.25220334025373, 671.9453205635662)
+[14:57:14] [Server thread/INFO]: Leytter joined the game
+[15:06:37] [Server thread/INFO]: [Not Secure] <Leytter> ?
+[15:06:38] [Server thread/INFO]: [Not Secure] <Jmat_2> 2500 670
+[15:06:52] [Server thread/INFO]: [Not Secure] <Leytter> 2492 671
+[15:07:25] [Server thread/INFO]: Villager cmm['Villager'/26188, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[15:07:47] [Server thread/INFO]: [Not Secure] <Leytter> no hay un aldeano que venda polvora?
