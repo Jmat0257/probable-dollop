@@ -232,3 +232,6 @@
 [20:37:00] [Server thread/INFO]: Villager cmm['Villager'/123400, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
 [20:48:09] [Server thread/INFO]: Villager cmm['Villager'/123396, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
 [20:57:29] [Server thread/WARN]: Jmat_2 moved wrongly!
+[21:07:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2443, y=84, z=681} iz{x=2442, y=85, z=681}
+[21:07:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2443, y=84, z=681} iz{x=2442, y=85, z=681}
+[21:07:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2443, y=84, z=681} iz{x=2442, y=85, z=681}
