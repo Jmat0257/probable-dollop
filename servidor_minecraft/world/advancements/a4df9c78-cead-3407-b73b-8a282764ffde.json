@@ -403,10 +403,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-11 03:52:16 +0000",
+      "minecraft:enderman": "2024-12-26 17:14:26 +0000",
       "minecraft:spider": "2024-11-11 02:43:44 +0000",
       "minecraft:vex": "2024-12-24 22:19:58 +0000",
       "minecraft:zombie": "2024-11-11 03:32:19 +0000",
-      "minecraft:creeper": "2024-12-24 15:17:57 +0000"
+      "minecraft:creeper": "2024-12-24 15:17:57 +0000",
+      "minecraft:ender_dragon": "2024-12-26 17:16:36 +0000"
     },
     "done": false
   },
@@ -2020,6 +2022,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-26 17:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-26 17:06:03 +0000"
@@ -2038,6 +2046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:12:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-26 17:06:03 +0000"
@@ -2053,6 +2067,30 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-26 17:06:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-26 17:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-12-26 17:11:09 +0000"
     },
     "done": true
   },
@@ -2077,6 +2115,18 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-12-26 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-26 17:12:02 +0000"
     },
     "done": true
   },
