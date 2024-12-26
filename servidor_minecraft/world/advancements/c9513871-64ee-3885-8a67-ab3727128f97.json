@@ -841,7 +841,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_chicken": "2024-12-26 16:49:04 +0000"
+      "cooked_chicken": "2024-12-26 16:49:04 +0000",
+      "golden_carrot": "2024-12-26 17:22:13 +0000"
     },
     "done": false
   },
@@ -913,13 +914,21 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2024-12-26 17:00:39 +0000"
+      "minecraft:enderman": "2024-12-26 17:24:31 +0000",
+      "minecraft:zombie": "2024-12-26 17:00:39 +0000",
+      "minecraft:ender_dragon": "2024-12-26 17:22:32 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-26 17:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-26 17:22:32 +0000"
     },
     "done": true
   },
