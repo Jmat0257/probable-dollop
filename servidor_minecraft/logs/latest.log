@@ -47,3 +47,33 @@
 [16:37:14] [Server thread/WARN]: handleDisconnection() called twice
 [16:37:31] [Server thread/INFO]: mohamed_la_punta[/127.243.31.22:51721] logged in with entity id 11750 at (2504.2009879627535, 64.0, 676.4573953117476)
 [16:37:31] [Server thread/INFO]: mohamed_la_punta joined the game
+[16:42:54] [Server thread/INFO]: Villager cmm['Villager'/11764, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[16:43:18] [Server thread/INFO]: Jmat_2[/127.31.58.135:52155] logged in with entity id 15931 at (451.6989101704612, 34.875, 868.3941814616314)
+[16:43:18] [Server thread/INFO]: Jmat_2 joined the game
+[16:43:19] [Server thread/INFO]: nael_binbolo has made the advancement [Sweet Dreams]
+[16:43:37] [Server thread/INFO]: nael_binbolo was slain by Zombie
+[16:43:59] [Server thread/INFO]: Jmat_2 has completed the challenge [Hot Tourist Destinations]
+[16:44:07] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[16:44:07] [Server thread/INFO]: nael_binbolo left the game
+[16:44:18] [Server thread/INFO]: nael_binbolo[/127.171.65.9:48557] logged in with entity id 17139 at (1554.22342576432, 70.0, 426.30000001192093)
+[16:44:18] [Server thread/INFO]: nael_binbolo joined the game
+[16:47:10] [Server thread/INFO]: [Not Secure] <Jmat_2> 2500 650
+[16:48:35] [Server thread/INFO]: Villager cmm['Villager'/11763, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[16:48:36] [Server thread/INFO]: nael_binbolo has made the advancement [Cover Me with Diamonds]
+[16:50:04] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[16:50:04] [Server thread/INFO]: nael_binbolo left the game
+[16:52:43] [Server thread/INFO]: mohamed_la_punta has made the advancement [Ol' Betsy]
+[16:56:31] [Server thread/INFO]: nael_binbolo[/127.171.65.9:49449] logged in with entity id 27564 at (2552.911209639533, 68.0, 684.87349083032)
+[16:56:31] [Server thread/INFO]: nael_binbolo joined the game
+[16:57:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2475, y=49, z=944} iz{x=2477, y=46, z=944}
+[16:57:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2475, y=49, z=944} iz{x=2477, y=46, z=944}
+[16:57:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2476, y=49, z=945} iz{x=2474, y=51, z=944}
+[16:57:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2476, y=49, z=945} iz{x=2474, y=51, z=944}
+[16:57:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2476, y=49, z=945} iz{x=2474, y=51, z=944}
+[16:57:08] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2478, y=49, z=943} iz{x=2474, y=50, z=942}
+[16:57:08] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2478, y=49, z=942} iz{x=2474, y=50, z=942}
+[16:57:08] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2478, y=50, z=942} iz{x=2474, y=50, z=942}
+[16:57:15] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2474, y=48, z=946} iz{x=2473, y=47, z=946}
+[16:58:26] [Server thread/INFO]: nael_binbolo has made the advancement [Suit Up]
+[16:59:04] [Server thread/INFO]: nael_binbolo has made the advancement [What a Deal!]
+[17:00:39] [Server thread/INFO]: nael_binbolo has made the advancement [Monster Hunter]
