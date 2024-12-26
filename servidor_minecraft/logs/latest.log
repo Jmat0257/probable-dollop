@@ -154,3 +154,7 @@
 [18:16:25] [Server thread/INFO]: OROCHIMARU joined the game
 [18:21:02] [Server thread/WARN]: Maycol_27x moved too quickly! -1.4103563623330047,0.0,9.950751175798132
 [18:24:10] [Server thread/INFO]: [Not Secure] <OROCHIMARU> 125-175
+[18:37:49] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=116, y=118, z=130} iz{x=117, y=118, z=134}
+[18:37:49] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=116, y=118, z=130} iz{x=117, y=118, z=134}
+[18:37:49] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=116, y=118, z=130} iz{x=117, y=118, z=134}
+[18:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
