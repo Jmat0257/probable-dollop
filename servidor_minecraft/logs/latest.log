@@ -1,343 +1,38 @@
-[17:48:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:48:28] [ServerMain/INFO]: Loaded 1175 recipes
-[17:48:28] [ServerMain/INFO]: Loaded 1276 advancements
-[17:48:29] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[17:48:29] [Server thread/INFO]: Loading properties
-[17:48:29] [Server thread/INFO]: Default game type: SURVIVAL
-[17:48:29] [Server thread/INFO]: Generating keypair
-[17:48:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:48:30] [Server thread/INFO]: Using epoll channel type
-[17:48:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:48:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:48:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:48:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:48:30] [Server thread/INFO]: Preparing level "world"
-[17:48:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:48:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:48:43] [Server thread/INFO]: Time elapsed: 5655 ms
-[17:48:43] [Server thread/INFO]: Done (13.137s)! For help, type "help"
-[17:48:53] [Server thread/INFO]: Jmat_2[/127.31.58.135:60697] logged in with entity id 3 at (2503.4387550597507, 64.875, 668.2329801755678)
-[17:48:54] [Server thread/INFO]: Jmat_2 joined the game
-[17:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4432ms or 88 ticks behind
-[17:48:59] [Server thread/INFO]: Maycol_27x[/127.137.81.102:57101] logged in with entity id 407 at (2496.477201547656, 69.0, 684.6650142024125)
-[17:48:59] [Server thread/INFO]: Maycol_27x joined the game
-[17:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8154ms or 163 ticks behind
-[17:51:41] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[17:51:41] [Server thread/INFO]: Jmat_2 left the game
-[17:51:50] [Server thread/INFO]: Jmat_2[/127.31.58.135:55859] logged in with entity id 4766 at (2330.28350154732, 65.0, 1046.2927409719061)
-[17:51:50] [Server thread/INFO]: Jmat_2 joined the game
-[17:53:01] [Server thread/INFO]: Villager cmm['Villager'/99, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[17:54:56] [Server thread/INFO]: OROCHIMARU[/127.76.101.112:40009] logged in with entity id 8589 at (2488.3160271099728, 64.0, 684.2459165880126)
-[17:54:56] [Server thread/INFO]: OROCHIMARU joined the game
-[18:03:25] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[18:03:25] [Server thread/INFO]: Jmat_2 left the game
-[18:03:27] [Server thread/INFO]: [Not Secure] <OROCHIMARU> duer man
-[18:03:32] [Server thread/INFO]: Jmat_2[/127.31.58.135:48213] logged in with entity id 15517 at (2335.8305660475626, 63.0, 1025.699999988079)
-[18:03:32] [Server thread/INFO]: Jmat_2 joined the game
-[18:04:44] [Server thread/INFO]: Leytter[/127.194.163.136:49141] logged in with entity id 16806 at (2500.814914488315, 64.0, 664.7675328604684)
-[18:04:44] [Server thread/INFO]: Leytter joined the game
-[18:05:14] [Server thread/INFO]: [Not Secure] <Leytter> vamo a raid
-[18:05:25] [Server thread/INFO]: [Not Secure] <Leytter> DAME FLECHA
-[18:05:29] [Server thread/INFO]: [Not Secure] <Leytter> OROCHUMARU
-[18:05:41] [Server thread/INFO]: [Not Secure] <Leytter> JOSE
-[18:05:44] [Server thread/INFO]: [Not Secure] <Leytter> MMAVERGA
-[18:05:48] [Server thread/INFO]: OROCHIMARU has made the advancement [Take Aim]
-[18:06:11] [Server thread/INFO]: [Not Secure] <Leytter> OROCHIMARU
-[18:06:14] [Server thread/INFO]: [Not Secure] <Leytter> FLECHAA
-[18:06:53] [Server thread/INFO]: [Not Secure] <Leytter> ezz
-[18:07:17] [Server thread/INFO]: OROCHIMARU has made the advancement [Voluntary Exile]
-[18:08:51] [Server thread/INFO]: Leytter has made the advancement [Voluntary Exile]
-[18:09:44] [Server thread/INFO]: [Not Secure] <Leytter> apunta bien julian
-[18:10:54] [Server thread/INFO]: Maycol_27x has made the advancement [Voluntary Exile]
-[18:12:19] [Server thread/INFO]: Maycol_27x was slain by Vindicator
-[18:12:35] [Server thread/INFO]: Jmat_2 was slain by Vindicator
-[18:12:36] [Server thread/WARN]: Maycol_27x moved too quickly! -9.426115023864895,1.252203340253729,3.6360387866818655
-[18:12:48] [Server thread/INFO]: Maycol_27x was slain by Vindicator
-[18:13:11] [Server thread/INFO]: Leytter has completed the challenge [Hero of the Village]
-[18:13:11] [Server thread/INFO]: Maycol_27x has completed the challenge [Hero of the Village]
-[18:13:11] [Server thread/INFO]: OROCHIMARU has completed the challenge [Hero of the Village]
-[18:13:12] [Server thread/INFO]: [Not Secure] <Leytter> TENGO EL INVENTARIO YENO
-[18:14:23] [Server thread/INFO]: [Not Secure] <Leytter> OTRA
-[18:14:34] [Server thread/INFO]: [Not Secure] <Leytter> toma
-[18:14:41] [Server thread/INFO]: [Not Secure] <Leytter> NNO
-[18:14:48] [Server thread/INFO]: [Not Secure] <Leytter> yo tenia 4 totems
-[18:15:03] [Server thread/INFO]: [Not Secure] <Leytter> yo mate a 4
-[18:15:38] [Server thread/INFO]: [Not Secure] <Leytter> yo=
-[18:15:43] [Server thread/INFO]: [Not Secure] <Leytter> ?
-[18:16:36] [Server thread/INFO]: Maycol_27x has made the advancement [Local Brewery]
-[18:18:14] [Server thread/INFO]: [Not Secure] <Leytter> TAN TO ZOMBIFICADO
-[18:18:46] [Server thread/INFO]: Maycol_27x has reached the goal [Postmortal]
-[18:21:13] [Server thread/INFO]: [Not Secure] <Leytter> Y EL flechero?
-[18:23:38] [Server thread/INFO]: [Not Secure] <Leytter> cuanto te bajO?
-[18:23:51] [Server thread/INFO]: [Not Secure] <Leytter> a ver
-[18:23:53] [Server thread/INFO]: Maycol_27x has reached the goal [Zombie Doctor]
-[18:23:55] [Server thread/INFO]: [Not Secure] <Leytter> cuanto
-[18:24:15] [Server thread/INFO]: [Not Secure] <Leytter> 1 Y MEDIO
-[18:24:27] [Server thread/INFO]: [Not Secure] <Leytter> x2
-[18:24:40] [Server thread/INFO]: [Not Secure] <Leytter> QUE E ESO
-[18:24:48] [Server thread/INFO]: [Not Secure] <Leytter> medio
-[18:25:10] [Server thread/INFO]: [Not Secure] <Leytter> y la mia?
-[18:25:33] [Server thread/INFO]: [Not Secure] <Leytter> XD
-[18:25:56] [Server thread/INFO]: [Not Secure] <Leytter> A
-[18:26:05] [Server thread/INFO]: [Not Secure] <Leytter> Y ESTA TORRE
-[18:26:35] [Server thread/INFO]: [Not Secure] <Leytter> yo consigo
-[18:27:55] [Server thread/INFO]: [Not Secure] <Leytter> SI
-[18:28:01] [Server thread/INFO]: [Not Secure] <Leytter> LA MIA TA CERCA
-[18:28:22] [Server thread/INFO]: [Not Secure] <Leytter> YO CREo que es la misma
-[18:29:09] [Server thread/INFO]: [Not Secure] <Leytter> cño
-[18:29:31] [Server thread/INFO]: Leytter lost connection: Disconnected
-[18:29:31] [Server thread/INFO]: Leytter left the game
-[18:31:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
-[18:32:52] [Server thread/INFO]: Leytter[/127.194.163.136:56455] logged in with entity id 32980 at (2571.302712965036, 64.25220334025373, 686.2579930011121)
-[18:32:52] [Server thread/INFO]: Leytter joined the game
-[18:33:21] [Server thread/INFO]: [Not Secure] <Leytter> toy bug
-[18:34:44] [Server thread/INFO]: [Not Secure] <Leytter> voy a farmear netherite
-[18:35:06] [Server thread/INFO]: [Not Secure] <Leytter> YO lo que estoy -100 de ping
-[18:36:22] [Server thread/INFO]: Leytter lost connection: Timed out
-[18:36:22] [Server thread/INFO]: Leytter left the game
-[18:36:22] [Server thread/WARN]: handleDisconnection() called twice
-[18:36:42] [Server thread/INFO]: Leytter[/127.194.163.136:52645] logged in with entity id 37118 at (2516.712539325771, 67.16610926093821, 722.0225345688906)
-[18:36:42] [Server thread/INFO]: Leytter joined the game
-[18:40:26] [Server thread/INFO]: [Not Secure] <Leytter> QUIEN quiere obsi?
-[18:40:54] [Server thread/INFO]: [Not Secure] <Leytter> julian la tiene
-[18:43:09] [Server thread/INFO]: [Not Secure] <OROCHIMARU> Leytter LOCO VEN
-[18:43:15] [Server thread/INFO]: [Not Secure] <OROCHIMARU> toma tu pocion
-[18:43:28] [Server thread/INFO]: Leytter has made the advancement [Local Brewery]
-[18:44:51] [Server thread/INFO]: [Not Secure] <Leytter> XD
-[18:46:25] [Server thread/INFO]: [Not Secure] <Leytter> pa onde e que vamo?
-[18:46:34] [Server thread/INFO]: [Not Secure] <Leytter> AAA
-[18:46:43] [Server thread/INFO]: [Not Secure] <Leytter> DEJA BUSCO MUCHA MADERA
-[18:47:09] [Server thread/INFO]: [Not Secure] <Leytter> VOY A HACER PILA DE CAMA
-[18:47:25] [Server thread/INFO]: [Not Secure] <Leytter> xd
-[18:47:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=116, y=81, z=234} iz{x=116, y=81, z=233}
-[18:47:43] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=116, y=81, z=234} iz{x=116, y=81, z=233}
-[18:47:49] [Server thread/INFO]: [Not Secure] <Leytter> VAMO
-[18:48:17] [Server thread/INFO]: [Not Secure] <Leytter> MIKRA
-[18:48:18] [Server thread/INFO]: [Not Secure] <Leytter> MIRA
-[18:48:46] [Server thread/INFO]: [Not Secure] <Leytter> QUIEN LA TIRA
-[18:49:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=260, y=55, z=148} iz{x=261, y=55, z=148}
-[18:49:38] [Server thread/INFO]: [Not Secure] <Leytter> FALTA PILA
-[18:49:42] [Server thread/INFO]: [Not Secure] <Leytter> TAMO EN LA 60
-[18:50:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=230, y=24, z=148} iz{x=231, y=23, z=148}
-[18:50:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=294, y=42, z=224} iz{x=294, y=40, z=224}
-[18:51:28] [Server thread/INFO]: [Not Secure] <Leytter> QUE MAL SPWN
-[18:52:55] [Server thread/INFO]: [Not Secure] <Leytter> VEN
-[18:53:00] [Server thread/INFO]: [Not Secure] <Leytter> ESTE ES EL LUGAR
-[18:53:23] [Server thread/INFO]: [Not Secure] <Leytter> hay
-[18:54:03] [Server thread/INFO]: [Not Secure] <Leytter> MAYCOL ESTABA AL FRENTE
-[18:54:15] [Server thread/INFO]: [Not Secure] <Leytter> antes de yo caerme
-[18:54:20] [Server thread/INFO]: [Not Secure] <Leytter> me cai al frente de los 2
-[18:54:58] [Server thread/INFO]: [Not Secure] <Leytter> MUDEMONOS
-[18:55:10] [Server thread/INFO]: [Not Secure] <Leytter> sida
-[18:55:18] [Server thread/INFO]: [Not Secure] <Leytter> bioma rojo se donde esta
-[18:55:53] [Server thread/INFO]: [Not Secure] <Leytter> ESTE BIOMA SI
-[18:56:16] [Server thread/INFO]: [Not Secure] <Leytter> BASTION
-[18:57:03] [Server thread/INFO]: [Not Secure] <Leytter> A MINAR
-[18:57:37] [Server thread/INFO]: [Not Secure] <Leytter> TENGO 3 STACKS
-[18:57:52] [Server thread/INFO]: [Not Secure] <Leytter> TOMA
-[18:58:27] [Server thread/INFO]: [Not Secure] <Leytter> el nombre
-[18:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=39, y=25, z=145} iz{x=39, y=25, z=144}
-[18:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=39, y=25, z=145} iz{x=39, y=25, z=144}
-[18:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=39, y=25, z=145} iz{x=39, y=25, z=144}
-[18:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=39, y=25, z=145} iz{x=39, y=25, z=144}
-[18:59:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=39, y=25, z=145} iz{x=39, y=25, z=144}
-[18:59:33] [Server thread/INFO]: [Not Secure] <Leytter> POR AQUI
-[18:59:44] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=50, y=20, z=142} iz{x=49, y=20, z=142}
-[19:00:03] [Server thread/INFO]: [Not Secure] <Leytter> Q
-[19:00:09] [Server thread/INFO]: [Not Secure] <Leytter> X2
-[19:00:21] [Server thread/INFO]: [Not Secure] <Leytter> NO
-[19:00:35] [Server thread/INFO]: [Not Secure] <Leytter> ASI NO SIRVE
-[19:01:00] [Server thread/INFO]: [Not Secure] <Leytter> SI
-[19:03:50] [Server thread/INFO]: Maycol_27x has made the advancement [Hidden in the Depths]
-[19:04:51] [Server thread/INFO]: OROCHIMARU has made the advancement [Hidden in the Depths]
-[19:06:15] [Server thread/INFO]: [Not Secure] <Leytter> NO
-[19:06:25] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=141, y=15, z=34} iz{x=148, y=14, z=58}
-[19:06:25] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=141, y=15, z=34} iz{x=148, y=14, z=58}
-[19:06:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=171, y=14, z=119} iz{x=172, y=14, z=119}
-[19:07:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=175, y=13, z=119} iz{x=166, y=13, z=120}
-[19:07:37] [Server thread/INFO]: [Not Secure] <Leytter> encontre suscaminos
-[19:07:58] [Server thread/INFO]: [Not Secure] <Leytter> YO
-[19:08:10] [Server thread/INFO]: [Not Secure] <Leytter> NO ESO NO
-[19:09:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=129, y=19, z=140} iz{x=129, y=18, z=140}
-[19:09:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=129, y=19, z=140} iz{x=129, y=18, z=140}
-[19:09:33] [Server thread/INFO]: [Not Secure] <Leytter> 2
-[19:10:00] [Server thread/INFO]: [Not Secure] <Leytter> ME DIO 1
-[19:10:01] [Server thread/INFO]: [Not Secure] <Leytter> xd
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
-[19:11:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=120, y=16, z=211} iz{x=125, y=16, z=214}
-[19:11:36] [Server thread/WARN]: Leytter moved wrongly!
-[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=98, y=16, z=215} iz{x=98, y=16, z=216}
-[19:11:53] [Server thread/WARN]: Leytter moved wrongly!
-[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=98, y=16, z=215} iz{x=98, y=16, z=216}
-[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=215} iz{x=98, y=16, z=216}
-[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=99, y=16, z=215} iz{x=98, y=16, z=216}
-[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=99, y=16, z=215} iz{x=98, y=16, z=216}
-[19:11:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=99, y=16, z=215} iz{x=98, y=16, z=216}
-[19:12:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=227} iz{x=99, y=15, z=227}
-[19:12:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
-[19:12:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
-[19:12:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
-[19:12:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
-[19:12:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=100, y=16, z=226} iz{x=99, y=15, z=227}
-[19:12:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=106, y=16, z=242} iz{x=106, y=16, z=241}
-[19:13:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=94, y=16, z=244} iz{x=94, y=17, z=244}
-[19:13:10] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=90, y=14, z=244} iz{x=90, y=17, z=244}
-[19:13:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=68, y=14, z=246} iz{x=69, y=14, z=246}
-[19:14:16] [Server thread/INFO]: Leytter has made the advancement [Hidden in the Depths]
-[19:14:28] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=28, y=14, z=79} iz{x=28, y=15, z=79}
-[19:14:28] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=28, y=14, z=79} iz{x=28, y=15, z=79}
-[19:16:07] [Server thread/INFO]: [Not Secure] <Leytter> 2
-[19:16:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=863, y=15, z=-621} iz{x=863, y=15, z=-620}
-[19:16:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=862, y=15, z=-621} iz{x=863, y=15, z=-620}
-[19:17:59] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=224, y=15, z=225} iz{x=170, y=14, z=228}
-[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
-[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
-[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
-[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
-[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
-[19:19:07] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=38, y=14, z=228} iz{x=38, y=14, z=229}
-[19:19:49] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=742, y=17, z=-652} iz{x=741, y=17, z=-652}
-[19:20:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-3, y=15, z=232} iz{x=-3, y=15, z=233}
-[19:20:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[19:20:29] [Server thread/INFO]: [Not Secure] <Leytter> miop
-[19:20:50] [Server thread/INFO]: [Not Secure] <Leytter> tengo 6
-[19:20:57] [Server thread/INFO]: [Not Secure] <Leytter> x ray
-[19:21:44] [Server thread/INFO]: [Not Secure] <Leytter> q pico tu tiene julian
-[19:21:53] [Server thread/INFO]: [Not Secure] <Leytter> xd
-[19:22:19] [Server thread/INFO]: [Not Secure] <Leytter> yo
-[19:24:48] [Server thread/INFO]: Leytter lost connection: Disconnected
-[19:24:48] [Server thread/INFO]: Leytter left the game
-[19:25:37] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=670, y=11, z=-607} iz{x=670, y=11, z=-606}
-[19:26:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-96, y=16, z=152} iz{x=-96, y=17, z=148}
-[19:26:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-96, y=16, z=152} iz{x=-96, y=17, z=148}
-[19:26:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-96, y=16, z=152} iz{x=-96, y=17, z=148}
-[19:26:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-96, y=16, z=152} iz{x=-96, y=17, z=148}
-[19:28:22] [Server thread/INFO]: Leytter[/127.194.163.136:42361] logged in with entity id 91483 at (-17.30000001192093, 14.0, 168.96473783216396)
-[19:28:22] [Server thread/INFO]: Leytter joined the game
-[19:28:42] [Server thread/INFO]: [Not Secure] <Leytter> 3fps :D
-[19:28:44] [Server thread/INFO]: [Not Secure] <Leytter> a ya
-[19:28:46] [Server thread/INFO]: [Not Secure] <Leytter> si
-[19:29:20] [Server thread/INFO]: [Not Secure] <Leytter> se me va a romper el pico
-[19:29:27] [Server thread/INFO]: [Not Secure] <Leytter> no
-[19:29:44] [Server thread/INFO]: [Not Secure] <Leytter> cuento tienen?
-[19:30:10] [Server thread/INFO]: [Not Secure] <Leytter> funciona si me lo llevo con el mismo pico?
-[19:30:40] [Server thread/INFO]: [Not Secure] <Leytter> nooo
-[19:30:53] [Server thread/INFO]: [Not Secure] <Leytter> x2
-[19:32:37] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[19:32:37] [Server thread/INFO]: Jmat_2 left the game
-[19:34:20] [Server thread/INFO]: [Not Secure] <OROCHIMARU> tienen musica aqui es
-[19:34:29] [Server thread/INFO]: [Not Secure] <OROCHIMARU> tengo 27
-[19:34:33] [Server thread/INFO]: [Not Secure] <Leytter> a
-[19:34:35] [Server thread/INFO]: [Not Secure] <OROCHIMARU> te tengo a ti
-[19:34:39] [Server thread/INFO]: [Not Secure] <OROCHIMARU> Xd
-[19:38:47] [Server thread/INFO]: [Not Secure] <OROCHIMARU> Xd
-[19:39:08] [Server thread/INFO]: [Not Secure] <Leytter> -4 139
-[19:39:12] [Server thread/INFO]: [Not Secure] <OROCHIMARU> -15 131
-[19:39:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-20, y=15, z=136} iz{x=-20, y=14, z=136}
-[19:39:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-20, y=15, z=136} iz{x=-20, y=14, z=136}
-[19:39:27] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-20, y=15, z=136} iz{x=-20, y=14, z=136}
-[19:39:34] [Server thread/INFO]: [Not Secure] <OROCHIMARU> encontre a leytter
-[19:39:52] [Server thread/INFO]: [Not Secure] <OROCHIMARU> -14 138
-[19:40:35] [Server thread/INFO]: [Not Secure] <Leytter> q duro julian
-[19:40:37] [Server thread/INFO]: [Not Secure] <OROCHIMARU> leytter
-[19:40:44] [Server thread/INFO]: [Not Secure] <OROCHIMARU> encontre mas aqui
-[19:40:49] [Server thread/INFO]: [Not Secure] <OROCHIMARU> tengo 30 ya
-[19:40:54] [Server thread/INFO]: [Not Secure] <Leytter> 19
-[19:41:29] [Server thread/INFO]: [Not Secure] <OROCHIMARU> 30
-[19:41:35] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-1, y=14, z=109} iz{x=-1, y=15, z=110}
-[19:41:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-3, y=11, z=103} iz{x=-1, y=10, z=103}
-[19:44:41] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-52, y=19, z=-99} iz{x=-52, y=18, z=-98}
-[19:45:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:22] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:23] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-56, y=18, z=-87} iz{x=-56, y=18, z=-88}
-[19:45:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-60, y=17, z=-92} iz{x=-60, y=16, z=-93}
-[19:46:26] [Server thread/INFO]: Maycol_27x has completed the challenge [Hot Tourist Destinations]
-[19:47:19] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=75, y=11, z=178} iz{x=75, y=10, z=178}
-[19:48:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=65, y=15, z=-78} iz{x=65, y=14, z=-77}
-[19:48:39] [Server thread/INFO]: [Not Secure] <OROCHIMARU> emcomtre mas
-[19:48:43] [Server thread/INFO]: [Not Secure] <OROCHIMARU> ben
-[19:48:46] [Server thread/INFO]: [Not Secure] <OROCHIMARU> 36
-[19:48:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=58, y=15, z=-100} iz{x=59, y=14, z=-100}
-[19:49:41] [Server thread/INFO]: [Not Secure] <OROCHIMARU> encontre
-[19:49:45] [Server thread/INFO]: [Not Secure] <Leytter> .-.
-[19:50:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=8, z=229} iz{x=126, y=8, z=228}
-[19:50:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=8, z=229} iz{x=126, y=8, z=228}
-[19:50:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=8, z=229} iz{x=126, y=8, z=228}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=125, y=9, z=224} iz{x=125, y=8, z=224}
-[19:50:33] [Server thread/INFO]: [Not Secure] <OROCHIMARU> tengo 41
-[19:50:38] [Server thread/INFO]: [Not Secure] <Leytter> .-.
-[19:50:49] [Server thread/INFO]: [Not Secure] <OROCHIMARU> ok
-[19:50:57] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=13, y=20, z=-116} iz{x=13, y=19, z=-116}
-[19:50:59] [Server thread/INFO]: [Not Secure] <OROCHIMARU> leytter ciego de mierda dejaste 2
-[19:51:30] [Server thread/INFO]: [Not Secure] <OROCHIMARU> cuanto
-[19:52:43] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=136, y=9, z=164} iz{x=137, y=9, z=162}
-[19:52:43] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=136, y=9, z=164} iz{x=137, y=9, z=162}
-[19:52:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=136, y=8, z=137} iz{x=136, y=7, z=137}
-[19:52:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=136, y=8, z=137} iz{x=136, y=7, z=137}
-[19:52:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=136, y=8, z=137} iz{x=136, y=7, z=137}
-[19:52:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=136, y=8, z=137} iz{x=136, y=7, z=137}
-[19:53:12] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=134, y=7, z=130} iz{x=135, y=7, z=130}
-[19:53:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-46, y=17, z=-143} iz{x=-53, y=16, z=-143}
-[19:53:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-46, y=17, z=-143} iz{x=-53, y=16, z=-143}
-[19:53:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-46, y=17, z=-143} iz{x=-53, y=16, z=-143}
-[19:54:42] [Server thread/INFO]: [Not Secure] <OROCHIMARU> leytter este tunel es tuyo?
-[19:54:48] [Server thread/INFO]: [Not Secure] <Leytter> POSBILEMENTE
-[19:54:52] [Server thread/INFO]: [Not Secure] <OROCHIMARU> porque encontre 3 aqui
-[19:54:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-105, y=15, z=-219} iz{x=-105, y=15, z=-218}
-[19:54:56] [Server thread/INFO]: [Not Secure] <Leytter> .-.
-[19:55:01] [Server thread/INFO]: [Not Secure] <OROCHIMARU> 36
-[19:55:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=57, y=7, z=131} iz{x=57, y=7, z=130}
-[19:55:24] [Server thread/INFO]: [Not Secure] <OROCHIMARU> me quede con 33 porque tedi 8 y ahora encontre 3
-[19:56:02] [Server thread/INFO]: [Not Secure] <OROCHIMARU> se me va a romper el pico
-[19:56:21] [Server thread/INFO]: [Not Secure] <OROCHIMARU> leytter no te veo
-[19:56:40] [Server thread/INFO]: [Not Secure] <OROCHIMARU> quieres ayuda si o no porque si no buscare para darle a maycol
-[19:56:41] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-187, y=14, z=-263} iz{x=-187, y=13, z=-262}
-[19:57:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-164, y=14, z=-261} iz{x=-169, y=17, z=-253}
-[19:58:10] [Server thread/INFO]: [Not Secure] <OROCHIMARU> mi pico se va a romper
-[19:58:19] [Server thread/INFO]: [Not Secure] <OROCHIMARU> y tengo 37 ya
-[19:58:32] [Server thread/INFO]: [Not Secure] <OROCHIMARU> ok
-[19:58:52] [Server thread/INFO]: [Not Secure] <OROCHIMARU> y como quiera tengo mas que tu con ese pico XD
-[19:59:28] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=52, y=8, z=95} iz{x=51, y=7, z=95}
-[19:59:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=62, y=8, z=96} iz{x=62, y=7, z=96}
-[19:59:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=62, y=8, z=96} iz{x=62, y=7, z=96}
-[19:59:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=62, y=8, z=96} iz{x=62, y=7, z=96}
-[19:59:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=62, y=8, z=96} iz{x=62, y=7, z=96}
-[19:59:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=62, y=8, z=96} iz{x=62, y=7, z=96}
-[19:59:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=62, y=8, z=96} iz{x=62, y=7, z=96}
-[19:59:43] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=62, y=8, z=96} iz{x=62, y=7, z=96}
-[20:00:46] [Server thread/INFO]: [Not Secure] <Leytter> SI
-[20:00:55] [Server thread/INFO]: [Not Secure] <OROCHIMARU> 94 176
+[14:18:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:18:18] [ServerMain/INFO]: Loaded 1175 recipes
+[14:18:19] [ServerMain/INFO]: Loaded 1276 advancements
+[14:18:20] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[14:18:20] [Server thread/INFO]: Loading properties
+[14:18:20] [Server thread/INFO]: Default game type: SURVIVAL
+[14:18:20] [Server thread/INFO]: Generating keypair
+[14:18:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:18:21] [Server thread/INFO]: Using epoll channel type
+[14:18:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:18:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:18:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:18:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:18:21] [Server thread/INFO]: Preparing level "world"
+[14:18:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:18:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:18:34] [Server thread/INFO]: Time elapsed: 4908 ms
+[14:18:34] [Server thread/INFO]: Done (13.076s)! For help, type "help"
+[14:19:33] [Server thread/INFO]: Jmat_2[/127.31.58.135:41423] logged in with entity id 3 at (663.6518587340429, 14.0, -633.8027898515396)
+[14:19:33] [Server thread/INFO]: Jmat_2 joined the game
+[14:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3126ms or 62 ticks behind
+[14:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4086ms or 81 ticks behind
+[14:20:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=693, y=14, z=-630} iz{x=693, y=14, z=-629}
+[14:20:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=693, y=14, z=-630} iz{x=693, y=14, z=-629}
+[14:20:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=693, y=14, z=-630} iz{x=693, y=14, z=-629}
+[14:20:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=693, y=14, z=-630} iz{x=693, y=14, z=-629}
+[14:20:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=693, y=14, z=-630} iz{x=693, y=14, z=-629}
+[14:20:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=693, y=14, z=-630} iz{x=693, y=14, z=-629}
+[14:26:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[14:26:22] [Server thread/INFO]: Villager cmm['Villager'/4769, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
