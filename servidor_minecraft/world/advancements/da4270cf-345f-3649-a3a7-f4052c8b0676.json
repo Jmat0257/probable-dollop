@@ -360,6 +360,7 @@
       "minecraft:zombified_piglin": "2024-12-24 19:27:48 +0000",
       "minecraft:witch": "2024-12-25 18:07:56 +0000",
       "minecraft:ravager": "2024-12-25 18:10:28 +0000",
+      "minecraft:hoglin": "2024-12-27 02:32:30 +0000",
       "minecraft:piglin": "2024-11-16 18:01:00 +0000",
       "minecraft:vindicator": "2024-12-25 18:08:51 +0000",
       "minecraft:enderman": "2024-11-10 19:27:57 +0000",
@@ -3123,6 +3124,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-26 15:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-27 02:31:42 +0000"
     },
     "done": true
   },
