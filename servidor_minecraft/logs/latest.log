@@ -173,3 +173,22 @@
 [15:43:40] [Server thread/INFO]: [Not Secure] <Leytter> mira
 [15:43:50] [Server thread/INFO]: [Not Secure] <Leytter> PA MIELDA
 [15:49:20] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2432, y=55, z=669} iz{x=2434, y=57, z=669}
+[15:50:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2422, y=58, z=656} iz{x=2422, y=61, z=659}
+[15:50:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2423, y=60, z=656} iz{x=2422, y=61, z=656}
+[15:50:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2423, y=59, z=656} iz{x=2422, y=61, z=656}
+[15:50:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2422, y=59, z=655} iz{x=2422, y=61, z=656}
+[15:50:53] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2423, y=60, z=657} iz{x=2423, y=61, z=656}
+[15:51:02] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2428, y=58, z=656} iz{x=2427, y=59, z=656}
+[15:51:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2424, y=60, z=667} iz{x=2425, y=61, z=667}
+[15:51:24] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2424, y=60, z=667} iz{x=2425, y=61, z=667}
+[15:51:25] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2424, y=60, z=667} iz{x=2425, y=61, z=667}
+[15:52:41] [Server thread/INFO]: Leytter lost connection: Timed out
+[15:52:41] [Server thread/INFO]: Leytter left the game
+[15:52:41] [Server thread/WARN]: handleDisconnection() called twice
+[15:52:53] [Server thread/INFO]: Leytter[/127.194.163.136:43401] logged in with entity id 86698 at (2435.548015681528, 56.0, 662.1559405336852)
+[15:52:53] [Server thread/INFO]: Leytter joined the game
+[15:55:19] [Server thread/INFO]: [Not Secure] <Leytter> DE QUE MATERIAL VA?
+[15:56:02] [Server thread/WARN]: Leytter moved wrongly!
+[15:57:13] [Server thread/INFO]: [Not Secure] <Leytter> coño
+[15:59:18] [Server thread/INFO]: [Not Secure] <Leytter> VEN A VER
+[15:59:38] [Server thread/INFO]: [Not Secure] <Leytter> DE CUAL COLOR
