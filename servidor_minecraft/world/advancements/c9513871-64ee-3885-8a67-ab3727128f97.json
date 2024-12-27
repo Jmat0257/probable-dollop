@@ -914,8 +914,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-27 04:04:34 +0000",
       "minecraft:enderman": "2024-12-26 17:24:31 +0000",
+      "minecraft:spider": "2024-12-27 04:03:34 +0000",
       "minecraft:zombie": "2024-12-26 17:00:39 +0000",
+      "minecraft:creeper": "2024-12-27 04:03:36 +0000",
       "minecraft:ender_dragon": "2024-12-26 17:22:32 +0000"
     },
     "done": false
@@ -1036,6 +1039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-27 04:05:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-27 03:44:01 +0000"
@@ -1072,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-27 04:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-12-27 03:55:45 +0000"
@@ -1081,6 +1096,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-27 03:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-27 04:05:04 +0000"
     },
     "done": true
   },
@@ -1099,6 +1120,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-27 03:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-27 04:04:37 +0000"
     },
     "done": true
   },
@@ -1132,9 +1159,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 04:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-27 03:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 04:03:37 +0000"
     },
     "done": true
   },
