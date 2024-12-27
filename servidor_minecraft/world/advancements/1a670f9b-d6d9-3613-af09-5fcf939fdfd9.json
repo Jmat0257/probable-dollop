@@ -15,6 +15,7 @@
       "minecraft:taiga": "2024-12-24 17:41:15 +0000",
       "minecraft:river": "2024-12-24 17:41:53 +0000",
       "minecraft:snowy_plains": "2024-12-26 19:12:03 +0000",
+      "minecraft:stony_shore": "2024-12-27 00:28:02 +0000",
       "minecraft:snowy_taiga": "2024-12-24 21:05:53 +0000",
       "minecraft:dripstone_caves": "2024-12-26 19:07:33 +0000",
       "minecraft:deep_cold_ocean": "2024-12-24 18:04:10 +0000",
@@ -25,8 +26,10 @@
       "minecraft:ocean": "2024-12-24 17:57:11 +0000",
       "minecraft:sunflower_plains": "2024-12-24 19:18:22 +0000",
       "minecraft:cherry_grove": "2024-12-24 19:41:11 +0000",
+      "minecraft:grove": "2024-12-27 00:38:51 +0000",
       "minecraft:snowy_beach": "2024-12-26 19:13:41 +0000",
-      "minecraft:plains": "2024-12-24 18:03:08 +0000"
+      "minecraft:plains": "2024-12-24 18:03:08 +0000",
+      "minecraft:jagged_peaks": "2024-12-27 00:39:15 +0000"
     },
     "done": false
   },
@@ -375,6 +378,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-24 19:53:11 +0000",
+      "beetroot_soup": "2024-12-27 00:38:29 +0000",
       "mutton": "2024-12-24 17:56:04 +0000",
       "chicken": "2024-12-24 17:55:12 +0000",
       "cooked_chicken": "2024-12-24 19:28:32 +0000",
@@ -1278,7 +1282,8 @@
       "minecraft:vex": "2024-12-25 18:09:02 +0000",
       "minecraft:zombie": "2024-12-24 20:18:09 +0000",
       "minecraft:creeper": "2024-12-24 20:05:51 +0000",
-      "minecraft:drowned": "2024-12-26 21:42:03 +0000"
+      "minecraft:drowned": "2024-12-26 21:42:03 +0000",
+      "minecraft:zombie_villager": "2024-12-27 00:31:17 +0000"
     },
     "done": false
   },
@@ -2521,15 +2526,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 23:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 23:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-27 00:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 23:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-27 00:33:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-26 22:14:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-27 00:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 23:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-26 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 23:53:37 +0000"
     },
     "done": true
   },
