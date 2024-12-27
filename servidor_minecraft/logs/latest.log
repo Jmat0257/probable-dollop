@@ -26,3 +26,29 @@
 [13:17:46] [Server thread/INFO]: Jmat_2 joined the game
 [13:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
 [13:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[14:11:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2401, y=64, z=667} iz{x=2402, y=62, z=666}
+[14:11:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2401, y=64, z=667} iz{x=2402, y=62, z=666}
+[14:11:31] [Server thread/INFO]: Villager cmm['Villager'/13117, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[14:11:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2393, y=64, z=657} iz{x=2392, y=62, z=656}
+[14:11:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2393, y=64, z=657} iz{x=2392, y=62, z=656}
+[14:11:35] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2395, y=64, z=648} iz{x=2396, y=62, z=648}
+[14:11:35] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2395, y=64, z=648} iz{x=2396, y=62, z=648}
+[14:11:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2401, y=64, z=645} iz{x=2402, y=62, z=644}
+[14:11:37] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2402, y=64, z=643} iz{x=2403, y=62, z=642}
+[14:11:37] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2402, y=64, z=643} iz{x=2403, y=62, z=642}
+[14:11:37] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2402, y=64, z=643} iz{x=2403, y=62, z=642}
+[14:11:37] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2402, y=64, z=642} iz{x=2403, y=62, z=642}
+[14:11:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2411, y=64, z=638} iz{x=2411, y=62, z=639}
+[14:11:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2411, y=64, z=638} iz{x=2411, y=62, z=639}
+[14:11:45] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2425, y=64, z=627} iz{x=2426, y=62, z=626}
+[14:11:45] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2425, y=64, z=627} iz{x=2426, y=62, z=626}
+[14:11:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2424, y=64, z=622} iz{x=2423, y=62, z=621}
+[14:11:47] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2423, y=64, z=621} iz{x=2424, y=62, z=619}
+[14:11:47] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2423, y=64, z=621} iz{x=2424, y=62, z=619}
+[14:11:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2413, y=64, z=608} iz{x=2413, y=62, z=606}
+[14:11:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2409, y=64, z=601} iz{x=2409, y=62, z=599}
+[14:11:56] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2406, y=64, z=576} iz{x=2405, y=62, z=574}
+[14:11:56] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2406, y=64, z=576} iz{x=2405, y=62, z=574}
+[14:11:59] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2403, y=64, z=567} iz{x=2404, y=62, z=566}
+[14:12:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2405, y=64, z=562} iz{x=2406, y=62, z=561}
+[14:12:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2405, y=64, z=562} iz{x=2406, y=62, z=561}
