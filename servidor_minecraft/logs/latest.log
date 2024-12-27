@@ -192,3 +192,22 @@
 [15:57:13] [Server thread/INFO]: [Not Secure] <Leytter> coño
 [15:59:18] [Server thread/INFO]: [Not Secure] <Leytter> VEN A VER
 [15:59:38] [Server thread/INFO]: [Not Secure] <Leytter> DE CUAL COLOR
+[15:59:41] [Server thread/INFO]: [Not Secure] <Leytter> o mixto
+[16:01:48] [Server thread/INFO]: [Not Secure] <Leytter> una fuente
+[16:02:10] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2404, y=57, z=681} iz{x=2404, y=56, z=682}
+[16:04:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2414, y=56, z=685} iz{x=2414, y=56, z=684}
+[16:04:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2414, y=56, z=685} iz{x=2414, y=56, z=684}
+[16:04:14] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2412, y=59, z=683} iz{x=2411, y=58, z=683}
+[16:04:30] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2412, y=57, z=687} iz{x=2411, y=55, z=688}
+[16:05:32] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2409, y=59, z=687} iz{x=2408, y=57, z=688}
+[16:05:32] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2409, y=59, z=687} iz{x=2408, y=57, z=688}
+[16:05:32] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2408, y=59, z=688} iz{x=2408, y=57, z=688}
+[16:05:32] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2408, y=59, z=688} iz{x=2408, y=57, z=688}
+[16:07:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2409, y=59, z=679} iz{x=2409, y=57, z=679}
+[16:07:18] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2410, y=59, z=679} iz{x=2409, y=57, z=679}
+[16:07:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2410, y=60, z=681} iz{x=2411, y=59, z=681}
+[16:07:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2410, y=60, z=681} iz{x=2411, y=59, z=681}
+[16:07:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2410, y=61, z=681} iz{x=2411, y=59, z=681}
+[16:08:29] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2417, y=57, z=687} iz{x=2417, y=55, z=687}
+[16:09:21] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2407, y=57, z=668} iz{x=2407, y=55, z=669}
+[16:09:21] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2407, y=57, z=668} iz{x=2407, y=55, z=669}
