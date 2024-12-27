@@ -20,3 +20,30 @@
 [00:50:06] [Server thread/INFO]: Jmat_2 was shot by Skeleton
 [00:51:28] [Server thread/INFO]: Jmat_2 fell from a high place
 [00:52:39] [Server thread/INFO]: Jmat_2 has reached the goal [Postmortal]
+[00:53:59] [Server thread/INFO]: Jmat_2 was shot by Skeleton
+[00:55:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1487, y=141, z=619} iz{x=1486, y=140, z=619}
+[00:55:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1487, y=141, z=619} iz{x=1486, y=140, z=619}
+[00:55:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1487, y=140, z=619} iz{x=1486, y=140, z=619}
+[00:56:41] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1593, y=136, z=665} iz{x=1593, y=138, z=663}
+[01:02:11] [Server thread/WARN]: OROCHIMARU moved wrongly!
+[01:02:17] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[01:02:17] [Server thread/INFO]: Jmat_2 left the game
+[01:02:22] [Server thread/INFO]: Jmat_2[/127.31.58.135:47385] logged in with entity id 393320 at (2348.421946972061, 69.0, 573.6336986125525)
+[01:02:22] [Server thread/INFO]: Jmat_2 joined the game
+[01:02:25] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
+[01:02:25] [Server thread/INFO]: Jmat_2 left the game
+[01:02:31] [Server thread/INFO]: Jmat_2[/127.31.58.135:58521] logged in with entity id 393636 at (2348.421946972061, 69.0, 573.6336986125525)
+[01:02:31] [Server thread/INFO]: Jmat_2 joined the game
+[01:06:02] [Server thread/INFO]: Villager cmm['Fletcher'/381720, l='ServerLevel[world]', x=2560.50, y=64.19, z=692.13] died, message: 'Fletcher was shot by Pillager'
+[01:09:39] [Server thread/WARN]: Maycol_27x moved too quickly! -3.611544679029066,-0.12129684053920187,9.498144194869951
+[01:10:38] [Server thread/INFO]: Villager cmm['Villager'/404760, l='ServerLevel[world]', x=2806.07, y=101.00, z=249.30] died, message: 'Villager was slain by Vindicator'
+[01:10:47] [Server thread/INFO]: Villager cmm['Nitwit'/404759, l='ServerLevel[world]', x=2780.30, y=98.00, z=257.13] died, message: 'Nitwit was slain by Vindicator'
+[01:10:57] [Server thread/INFO]: Villager cmm['Farmer'/404758, l='ServerLevel[world]', x=2804.38, y=95.92, z=276.71] died, message: 'Farmer was shot by Pillager'
+[01:11:07] [Server thread/INFO]: Villager cmm['Villager'/404767, l='ServerLevel[world]', x=2809.51, y=100.00, z=236.01] died, message: 'Villager was shot by Pillager'
+[01:12:08] [Server thread/INFO]: Villager cmm['Villager'/404808, l='ServerLevel[world]', x=2857.00, y=64.56, z=236.12] died, message: 'Villager was slain by Vindicator'
+[01:12:54] [Server thread/INFO]: Villager cmm['Villager'/407236, l='ServerLevel[world]', x=2859.48, y=78.00, z=257.30] died, message: 'Villager was shot by Pillager'
+[01:13:01] [Server thread/INFO]: Villager cmm['Villager'/407234, l='ServerLevel[world]', x=2861.04, y=77.00, z=257.69] died, message: 'Villager was shot by Pillager'
+[01:16:08] [Server thread/INFO]: Villager cmm['Villager'/410294, l='ServerLevel[world]', x=2871.85, y=77.00, z=264.04] died, message: 'Villager was shot by Pillager'
+[01:17:37] [Server thread/INFO]: Villager cmm['Villager'/410389, l='ServerLevel[world]', x=2894.36, y=63.00, z=217.65] died, message: 'Villager was slain by Vindicator'
+[01:17:38] [Server thread/INFO]: Villager cmm['Villager'/410851, l='ServerLevel[world]', x=2783.90, y=99.23, z=243.50] died, message: 'Villager was shot by Pillager'
+[01:19:01] [Server thread/INFO]: Jmat_2 was slain by Zombie
