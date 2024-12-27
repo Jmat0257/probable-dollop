@@ -47,3 +47,17 @@
 [01:17:37] [Server thread/INFO]: Villager cmm['Villager'/410389, l='ServerLevel[world]', x=2894.36, y=63.00, z=217.65] died, message: 'Villager was slain by Vindicator'
 [01:17:38] [Server thread/INFO]: Villager cmm['Villager'/410851, l='ServerLevel[world]', x=2783.90, y=99.23, z=243.50] died, message: 'Villager was shot by Pillager'
 [01:19:01] [Server thread/INFO]: Jmat_2 was slain by Zombie
+[01:24:59] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
+[01:24:59] [Server thread/INFO]: OROCHIMARU left the game
+[01:28:10] [Server thread/INFO]: Villager cmm['Villager'/381571, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[01:30:20] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[01:30:20] [Server thread/INFO]: Maycol_27x left the game
+[01:30:31] [Server thread/INFO]: Maycol_27x[/127.137.81.102:44699] logged in with entity id 425188 at (2527.5586866343924, 65.0, 695.7857284153625)
+[01:30:31] [Server thread/INFO]: Maycol_27x joined the game
+[01:30:56] [Server thread/INFO]: Maycol_27x has reached the goal [Beaconator]
+[01:30:56] [Server thread/INFO]: Maycol_27x has made the advancement [Bring Home the Beacon]
+[01:30:56] [Server thread/INFO]: Jmat_2 has reached the goal [Beaconator]
+[01:30:56] [Server thread/INFO]: Jmat_2 has made the advancement [Bring Home the Beacon]
+[01:31:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2512, y=64, z=720} iz{x=2513, y=63, z=719}
+[01:32:34] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2527, y=63, z=718} iz{x=2528, y=63, z=718}
+[01:33:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2557, y=62, z=717} iz{x=2555, y=63, z=718}
