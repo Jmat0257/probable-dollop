@@ -71,3 +71,5 @@
 [01:46:43] [Server thread/INFO]: Villager cmm['Villager'/381580, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.30] died, message: 'Villager was squished too much'
 [01:49:36] [Server thread/INFO]: OROCHIMARU[/127.76.101.112:54801] logged in with entity id 434106 at (2489.088935618356, 74.0, 678.3744659085964)
 [01:49:36] [Server thread/INFO]: OROCHIMARU joined the game
+[01:59:44] [Server thread/WARN]: Jmat_2 moved wrongly!
+[02:05:01] [Server thread/INFO]: Villager cmm['Villager'/381574, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
