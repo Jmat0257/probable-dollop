@@ -1,142 +1,28 @@
-[00:02:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2513, y=64, z=559} iz{x=2512, y=64, z=558}
-[00:04:08] [Server thread/INFO]: Villager cmm['Villager'/336889, l='ServerLevel[world]', x=2844.42, y=78.00, z=255.22] died, message: 'Villager was slain by Zombie'
-[00:08:24] [Server thread/INFO]: Villager cmm['Villager'/314311, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[00:16:28] [Server thread/INFO]: Maycol_27x[/127.137.81.102:34645] logged in with entity id 356962 at (2552.300000011921, 68.0, 684.3000000119209)
-[00:16:28] [Server thread/INFO]: Maycol_27x joined the game
-[00:17:42] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[00:17:42] [Server thread/INFO]: Maycol_27x left the game
-[00:17:48] [Server thread/INFO]: Maycol_27x[/127.137.81.102:48867] logged in with entity id 357813 at (2565.699999988079, 63.0, 683.4983762684243)
-[00:17:48] [Server thread/INFO]: Maycol_27x joined the game
-[00:20:16] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[00:20:16] [Server thread/INFO]: Maycol_27x left the game
-[00:20:26] [Server thread/INFO]: Maycol_27x[/127.137.81.102:36531] logged in with entity id 358860 at (2465.774057965697, 64.0, 641.8829476068066)
-[00:20:26] [Server thread/INFO]: Maycol_27x joined the game
-[00:23:50] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[00:23:50] [Server thread/INFO]: Maycol_27x left the game
-[00:24:10] [Server thread/INFO]: Maycol_27x[/127.137.81.102:34381] logged in with entity id 361728 at (2838.8139028510764, 70.0, 626.6370932814749)
-[00:24:10] [Server thread/INFO]: Maycol_27x joined the game
-[00:29:24] [Server thread/INFO]: Villager cmm['Villager'/314305, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[00:30:19] [Server thread/WARN]: Maycol_27x moved too quickly! -3.1075213393116883,-1.8616304906973582,9.398343127838416
-[00:50:06] [Server thread/INFO]: Jmat_2 was shot by Skeleton
-[00:51:28] [Server thread/INFO]: Jmat_2 fell from a high place
-[00:52:39] [Server thread/INFO]: Jmat_2 has reached the goal [Postmortal]
-[00:53:59] [Server thread/INFO]: Jmat_2 was shot by Skeleton
-[00:55:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1487, y=141, z=619} iz{x=1486, y=140, z=619}
-[00:55:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1487, y=141, z=619} iz{x=1486, y=140, z=619}
-[00:55:58] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1487, y=140, z=619} iz{x=1486, y=140, z=619}
-[00:56:41] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=1593, y=136, z=665} iz{x=1593, y=138, z=663}
-[01:02:11] [Server thread/WARN]: OROCHIMARU moved wrongly!
-[01:02:17] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[01:02:17] [Server thread/INFO]: Jmat_2 left the game
-[01:02:22] [Server thread/INFO]: Jmat_2[/127.31.58.135:47385] logged in with entity id 393320 at (2348.421946972061, 69.0, 573.6336986125525)
-[01:02:22] [Server thread/INFO]: Jmat_2 joined the game
-[01:02:25] [Server thread/INFO]: Jmat_2 lost connection: Disconnected
-[01:02:25] [Server thread/INFO]: Jmat_2 left the game
-[01:02:31] [Server thread/INFO]: Jmat_2[/127.31.58.135:58521] logged in with entity id 393636 at (2348.421946972061, 69.0, 573.6336986125525)
-[01:02:31] [Server thread/INFO]: Jmat_2 joined the game
-[01:06:02] [Server thread/INFO]: Villager cmm['Fletcher'/381720, l='ServerLevel[world]', x=2560.50, y=64.19, z=692.13] died, message: 'Fletcher was shot by Pillager'
-[01:09:39] [Server thread/WARN]: Maycol_27x moved too quickly! -3.611544679029066,-0.12129684053920187,9.498144194869951
-[01:10:38] [Server thread/INFO]: Villager cmm['Villager'/404760, l='ServerLevel[world]', x=2806.07, y=101.00, z=249.30] died, message: 'Villager was slain by Vindicator'
-[01:10:47] [Server thread/INFO]: Villager cmm['Nitwit'/404759, l='ServerLevel[world]', x=2780.30, y=98.00, z=257.13] died, message: 'Nitwit was slain by Vindicator'
-[01:10:57] [Server thread/INFO]: Villager cmm['Farmer'/404758, l='ServerLevel[world]', x=2804.38, y=95.92, z=276.71] died, message: 'Farmer was shot by Pillager'
-[01:11:07] [Server thread/INFO]: Villager cmm['Villager'/404767, l='ServerLevel[world]', x=2809.51, y=100.00, z=236.01] died, message: 'Villager was shot by Pillager'
-[01:12:08] [Server thread/INFO]: Villager cmm['Villager'/404808, l='ServerLevel[world]', x=2857.00, y=64.56, z=236.12] died, message: 'Villager was slain by Vindicator'
-[01:12:54] [Server thread/INFO]: Villager cmm['Villager'/407236, l='ServerLevel[world]', x=2859.48, y=78.00, z=257.30] died, message: 'Villager was shot by Pillager'
-[01:13:01] [Server thread/INFO]: Villager cmm['Villager'/407234, l='ServerLevel[world]', x=2861.04, y=77.00, z=257.69] died, message: 'Villager was shot by Pillager'
-[01:16:08] [Server thread/INFO]: Villager cmm['Villager'/410294, l='ServerLevel[world]', x=2871.85, y=77.00, z=264.04] died, message: 'Villager was shot by Pillager'
-[01:17:37] [Server thread/INFO]: Villager cmm['Villager'/410389, l='ServerLevel[world]', x=2894.36, y=63.00, z=217.65] died, message: 'Villager was slain by Vindicator'
-[01:17:38] [Server thread/INFO]: Villager cmm['Villager'/410851, l='ServerLevel[world]', x=2783.90, y=99.23, z=243.50] died, message: 'Villager was shot by Pillager'
-[01:19:01] [Server thread/INFO]: Jmat_2 was slain by Zombie
-[01:24:59] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
-[01:24:59] [Server thread/INFO]: OROCHIMARU left the game
-[01:28:10] [Server thread/INFO]: Villager cmm['Villager'/381571, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
-[01:30:20] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[01:30:20] [Server thread/INFO]: Maycol_27x left the game
-[01:30:31] [Server thread/INFO]: Maycol_27x[/127.137.81.102:44699] logged in with entity id 425188 at (2527.5586866343924, 65.0, 695.7857284153625)
-[01:30:31] [Server thread/INFO]: Maycol_27x joined the game
-[01:30:56] [Server thread/INFO]: Maycol_27x has reached the goal [Beaconator]
-[01:30:56] [Server thread/INFO]: Maycol_27x has made the advancement [Bring Home the Beacon]
-[01:30:56] [Server thread/INFO]: Jmat_2 has reached the goal [Beaconator]
-[01:30:56] [Server thread/INFO]: Jmat_2 has made the advancement [Bring Home the Beacon]
-[01:31:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2512, y=64, z=720} iz{x=2513, y=63, z=719}
-[01:32:34] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2527, y=63, z=718} iz{x=2528, y=63, z=718}
-[01:33:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2557, y=62, z=717} iz{x=2555, y=63, z=718}
-[01:35:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2598, y=68, z=714} iz{x=2597, y=66, z=714}
-[01:37:01] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2520, y=65, z=721} iz{x=2520, y=64, z=722}
-[01:44:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2525, y=67, z=687} iz{x=2523, y=63, z=715}
-[01:46:05] [Server thread/INFO]: Jmat_2 lost connection: Timed out
-[01:46:05] [Server thread/INFO]: Jmat_2 left the game
-[01:46:16] [Server thread/INFO]: Jmat_2[/127.31.58.135:42917] logged in with entity id 433132 at (2523.45199873289, 63.0, 711.7298324109465)
-[01:46:16] [Server thread/INFO]: Jmat_2 joined the game
-[01:46:43] [Server thread/INFO]: Villager cmm['Villager'/381580, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.30] died, message: 'Villager was squished too much'
-[01:49:36] [Server thread/INFO]: OROCHIMARU[/127.76.101.112:54801] logged in with entity id 434106 at (2489.088935618356, 74.0, 678.3744659085964)
-[01:49:36] [Server thread/INFO]: OROCHIMARU joined the game
-[01:59:44] [Server thread/WARN]: Jmat_2 moved wrongly!
-[02:05:01] [Server thread/INFO]: Villager cmm['Villager'/381574, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
-[02:17:37] [Server thread/INFO]: Villager cmm['Villager'/381573, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.30] died, message: 'Villager was squished too much'
-[02:21:41] [Server thread/INFO]: Leytter[/127.194.163.136:39315] logged in with entity id 446532 at (3568.924584671379, 64.93599263676077, 6982.172470610931)
-[02:21:41] [Server thread/INFO]: Leytter joined the game
-[02:22:16] [Server thread/INFO]: [Not Secure] <Leytter> recuerdos
-[02:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[02:22:44] [Server thread/INFO]: [Not Secure] <Leytter> cords nether
-[02:22:51] [Server thread/INFO]: [Not Secure] <Leytter> 300 80?
-[02:23:01] [Server thread/INFO]: [Not Secure] <Leytter> XD
-[02:23:10] [Server thread/INFO]: [Not Secure] <Leytter> una nether force
-[02:24:19] [Server thread/INFO]: [Not Secure] <Leytter> joseeeeeeeeeee
-[02:24:28] [Server thread/INFO]: [Not Secure] <Leytter> MAMACHOLA
-[02:24:44] [Server thread/INFO]: [Not Secure] <Leytter> JOSE
-[02:24:56] [Server thread/INFO]: [Not Secure] <Leytter> cords nether
-[02:25:01] [Server thread/INFO]: [Not Secure] <Jmat_2> 315 80
-[02:25:18] [Server thread/INFO]: [Not Secure] <Leytter> y al lado del portal hay una netherforce
-[02:25:21] [Server thread/INFO]: [Not Secure] <Leytter> la luteaste?
-[02:29:14] [Server thread/INFO]: Leytter lost connection: Disconnected
-[02:29:14] [Server thread/INFO]: Leytter left the game
-[02:29:30] [Server thread/INFO]: Villager cmm['Farmer'/381739, l='ServerLevel[world]', x=2566.51, y=62.00, z=684.47] died, message: 'Farmer suffocated in a wall'
-[02:31:19] [Server thread/INFO]: Leytter[/127.194.163.136:49277] logged in with entity id 455628 at (196.67091846930757, 30.394968078356946, 816.5627023173985)
-[02:31:19] [Server thread/INFO]: Leytter joined the game
-[02:31:42] [Server thread/INFO]: Leytter has reached the goal [Postmortal]
-[02:31:45] [Server thread/INFO]: [Not Secure] <Leytter> hoo
-[02:31:52] [Server thread/INFO]: [Not Secure] <Leytter> si
-[02:36:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=370, y=57, z=280} iz{x=371, y=56, z=280}
-[02:36:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=370, y=57, z=280} iz{x=371, y=56, z=280}
-[02:36:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=370, y=57, z=280} iz{x=371, y=56, z=280}
-[02:36:33] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=370, y=57, z=280} iz{x=371, y=56, z=280}
-[02:38:11] [Server thread/INFO]: Villager cmm['Villager'/381572, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.30] died, message: 'Villager was squished too much'
-[02:39:32] [Server thread/INFO]: [Not Secure] <Leytter> E VUELTADO
-[02:40:05] [Server thread/INFO]: [Not Secure] <Leytter> y to esto
-[02:41:00] [Server thread/INFO]: [Not Secure] <Leytter> TE DI slime
-[02:41:37] [Server thread/INFO]: [Not Secure] <Leytter> mir
-[02:43:03] [Server thread/INFO]: [Not Secure] <Leytter> Y EL DE COMIDA
-[02:43:37] [Server thread/INFO]: [Not Secure] <Leytter> te lo mande
-[02:43:58] [Server thread/INFO]: [Not Secure] <Leytter> MIRALO AQUI
-[02:44:35] [Server thread/INFO]: Leytter lost connection: Timed out
-[02:44:35] [Server thread/INFO]: Leytter left the game
-[02:45:18] [Server thread/INFO]: Leytter[/127.194.163.136:56705] logged in with entity id 472825 at (2512.3090541554197, 65.86395105899413, 713.8274961545235)
-[02:45:18] [Server thread/INFO]: Leytter joined the game
-[02:45:58] [Server thread/INFO]: [Not Secure] <Leytter> ANIMAL EN CAUTIVERIO
-[02:46:05] [Server thread/INFO]: [Not Secure] <OROCHIMARU> Xd
-[02:46:42] [Server thread/INFO]: Villager cmm['Villager'/464530, l='ServerLevel[world]', x=2561.39, y=64.00, z=687.53] died, message: 'Villager was burned to a crisp while fighting OROCHIMARU'
-[02:47:48] [Server thread/INFO]: Leytter lost connection: Timed out
-[02:47:48] [Server thread/INFO]: Leytter left the game
-[02:48:00] [Server thread/INFO]: Leytter[/127.194.163.136:52435] logged in with entity id 473651 at (2512.8007907736765, 64.0, 696.3365767791252)
-[02:48:00] [Server thread/INFO]: Leytter joined the game
-[02:49:21] [Server thread/INFO]: [Not Secure] <Leytter> YO
-[02:49:30] [Server thread/INFO]: Leytter lost connection: Timed out
-[02:49:30] [Server thread/INFO]: Leytter left the game
-[02:49:44] [Server thread/INFO]: Leytter[/127.194.163.136:51797] logged in with entity id 474355 at (2451.3060375991554, 66.0, 687.7440136670095)
-[02:49:44] [Server thread/INFO]: Leytter joined the game
-[02:51:44] [Server thread/INFO]: Leytter lost connection: Timed out
-[02:51:44] [Server thread/INFO]: Leytter left the game
-[02:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5152ms or 103 ticks behind
-[02:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3985ms or 79 ticks behind
-[02:58:15] [Server thread/WARN]: OROCHIMARU moved too quickly! -798.5625284624325,91.46415937495544,-1988.8368893681168
-[03:12:35] [Server thread/INFO]: OROCHIMARU lost connection: Disconnected
-[03:12:35] [Server thread/INFO]: OROCHIMARU left the game
-[03:20:06] [Server thread/INFO]: nael_binbolo[/127.171.65.9:55219] logged in with entity id 498695 at (2566.1499348861653, 64.0, 685.3208502824064)
-[03:20:06] [Server thread/INFO]: nael_binbolo joined the game
-[03:20:26] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
-[03:20:26] [Server thread/INFO]: Maycol_27x left the game
-[03:55:45] [Server thread/INFO]: nael_binbolo has reached the goal [Sky's the Limit]
-[04:03:22] [Server thread/INFO]: mohamed_la_punta[/127.117.204.44:41275] logged in with entity id 514892 at (2498.5, 74.0625, 686.5)
-[04:03:22] [Server thread/INFO]: mohamed_la_punta joined the game
-[04:06:04] [Server thread/INFO]: nael_binbolo has made the advancement [Take Aim]
+[13:17:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:17:14] [ServerMain/INFO]: Loaded 1175 recipes
+[13:17:14] [ServerMain/INFO]: Loaded 1276 advancements
+[13:17:14] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[13:17:14] [Server thread/INFO]: Loading properties
+[13:17:14] [Server thread/INFO]: Default game type: SURVIVAL
+[13:17:14] [Server thread/INFO]: Generating keypair
+[13:17:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:17:15] [Server thread/INFO]: Using epoll channel type
+[13:17:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:17:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:17:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:17:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:17:15] [Server thread/INFO]: Preparing level "world"
+[13:17:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:17:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:17:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:17:27] [Server thread/INFO]: Time elapsed: 3167 ms
+[13:17:27] [Server thread/INFO]: Done (11.614s)! For help, type "help"
+[13:17:46] [Server thread/INFO]: Jmat_2[/127.31.58.135:50207] logged in with entity id 4 at (2524.913439152493, 64.0, 699.4702386717017)
+[13:17:46] [Server thread/INFO]: Jmat_2 joined the game
+[13:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[13:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
