@@ -61,3 +61,13 @@
 [01:31:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2512, y=64, z=720} iz{x=2513, y=63, z=719}
 [01:32:34] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2527, y=63, z=718} iz{x=2528, y=63, z=718}
 [01:33:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2557, y=62, z=717} iz{x=2555, y=63, z=718}
+[01:35:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2598, y=68, z=714} iz{x=2597, y=66, z=714}
+[01:37:01] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2520, y=65, z=721} iz{x=2520, y=64, z=722}
+[01:44:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2525, y=67, z=687} iz{x=2523, y=63, z=715}
+[01:46:05] [Server thread/INFO]: Jmat_2 lost connection: Timed out
+[01:46:05] [Server thread/INFO]: Jmat_2 left the game
+[01:46:16] [Server thread/INFO]: Jmat_2[/127.31.58.135:42917] logged in with entity id 433132 at (2523.45199873289, 63.0, 711.7298324109465)
+[01:46:16] [Server thread/INFO]: Jmat_2 joined the game
+[01:46:43] [Server thread/INFO]: Villager cmm['Villager'/381580, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.30] died, message: 'Villager was squished too much'
+[01:49:36] [Server thread/INFO]: OROCHIMARU[/127.76.101.112:54801] logged in with entity id 434106 at (2489.088935618356, 74.0, 678.3744659085964)
+[01:49:36] [Server thread/INFO]: OROCHIMARU joined the game
