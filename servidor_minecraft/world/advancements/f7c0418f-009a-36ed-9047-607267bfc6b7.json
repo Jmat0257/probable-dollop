@@ -863,7 +863,8 @@
       "minecraft:creeper": "2024-12-23 18:57:39 +0000",
       "minecraft:drowned": "2024-11-26 03:21:42 +0000",
       "minecraft:zombie_villager": "2024-12-25 18:01:14 +0000",
-      "minecraft:evoker": "2024-12-25 18:09:19 +0000"
+      "minecraft:evoker": "2024-12-25 18:09:19 +0000",
+      "minecraft:slime": "2024-12-28 16:01:40 +0000"
     },
     "done": false
   },
@@ -3394,6 +3395,48 @@
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2024-12-28 15:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-28 16:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-28 16:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-28 16:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-28 16:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-28 16:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-28 16:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-28 16:18:14 +0000"
     },
     "done": true
   },
