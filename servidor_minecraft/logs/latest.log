@@ -155,3 +155,11 @@
 [03:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
 [03:51:17] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
 [03:51:17] [Server thread/INFO]: mohamed_la_punta left the game
+[03:53:42] [Server thread/INFO]: [Not Secure] <Leytter> CORDS
+[03:54:19] [Server thread/INFO]: [Not Secure] <Leytter> 27
+[03:54:42] [Server thread/INFO]: [Not Secure] <Leytter> donde estas
+[03:57:07] [Server thread/INFO]: Villager cmm['Fisherman'/136, l='ServerLevel[world]', x=2560.50, y=64.19, z=688.12] died, message: 'Fisherman was slain by Zombie'
+[03:59:28] [Server thread/INFO]: Villager cmm['Fisherman'/2261, l='ServerLevel[world]', x=2560.50, y=64.63, z=688.57] died, message: 'Fisherman was slain by Zombie'
+[04:00:05] [Server thread/INFO]: Villager cmm['Fisherman'/116, l='ServerLevel[world]', x=2560.50, y=64.72, z=688.66] died, message: 'Fisherman was slain by Zombie'
+[04:01:38] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[04:01:38] [Server thread/INFO]: Maycol_27x left the game
