@@ -52,3 +52,17 @@
 [15:27:32] [Server thread/WARN]: handleDisconnection() called twice
 [15:30:47] [Server thread/INFO]: nael_binbolo[/127.171.65.9:45257] logged in with entity id 16528 at (2303.629998164888, 70.5, 807.8382914727127)
 [15:30:47] [Server thread/INFO]: nael_binbolo joined the game
+[15:40:28] [Server thread/INFO]: nael_binbolo lost connection: Disconnected
+[15:40:28] [Server thread/INFO]: nael_binbolo left the game
+[15:40:45] [Server thread/INFO]: Maycol_27x[/127.137.81.102:57105] logged in with entity id 25849 at (2497.366717035333, 69.0, 684.9128758699126)
+[15:40:45] [Server thread/INFO]: Maycol_27x joined the game
+[15:41:15] [Server thread/INFO]: Maycol_27x lost connection: Timed out
+[15:41:15] [Server thread/INFO]: Maycol_27x left the game
+[15:41:47] [Server thread/INFO]: Maycol_27x[/127.137.81.102:50129] logged in with entity id 27071 at (2497.366717035333, 69.0, 684.9128758699126)
+[15:41:47] [Server thread/INFO]: Maycol_27x joined the game
+[15:43:05] [Server thread/INFO]: Maycol_27x lost connection: Disconnected
+[15:43:05] [Server thread/INFO]: Maycol_27x left the game
+[15:43:14] [Server thread/INFO]: Maycol_27x[/127.137.81.102:58863] logged in with entity id 27842 at (2497.366717035333, 69.0, 684.9128758699126)
+[15:43:14] [Server thread/INFO]: Maycol_27x joined the game
+[15:47:40] [Server thread/WARN]: Maycol_27x moved too quickly! 5.563293718551904,8.88976791201658,14.2527080268286
+[15:47:55] [Server thread/WARN]: Maycol_27x moved too quickly! 9.603119435132157,-6.383231559011989,13.963428999453072
