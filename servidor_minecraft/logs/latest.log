@@ -50,3 +50,5 @@
 [15:27:32] [Server thread/INFO]: nael_binbolo lost connection: Timed out
 [15:27:32] [Server thread/INFO]: nael_binbolo left the game
 [15:27:32] [Server thread/WARN]: handleDisconnection() called twice
+[15:30:47] [Server thread/INFO]: nael_binbolo[/127.171.65.9:45257] logged in with entity id 16528 at (2303.629998164888, 70.5, 807.8382914727127)
+[15:30:47] [Server thread/INFO]: nael_binbolo joined the game
