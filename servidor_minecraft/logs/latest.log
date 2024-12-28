@@ -128,3 +128,30 @@
 [03:39:50] [Server thread/INFO]: mohamed_la_punta left the game
 [03:39:57] [Server thread/INFO]: mohamed_la_punta[/127.212.89.95:35735] logged in with entity id 57709 at (2466.239720574546, 64.0, 671.8440223605859)
 [03:39:57] [Server thread/INFO]: mohamed_la_punta joined the game
+[03:42:18] [Server thread/INFO]: [Not Secure] <Leytter> UF
+[03:45:24] [Server thread/INFO]: Villager cmm['Librarian'/410, l='ServerLevel[world]', x=2570.49, y=63.00, z=683.49] died, message: 'Librarian went up in flames'
+[03:45:27] [Server thread/INFO]: Villager cmm['Librarian'/457, l='ServerLevel[world]', x=2580.49, y=63.00, z=683.49] died, message: 'Librarian was slain by Leytter'
+[03:45:29] [Server thread/INFO]: Villager cmm['Cleric'/414, l='ServerLevel[world]', x=2571.51, y=63.00, z=682.51] died, message: 'Cleric went up in flames'
+[03:45:30] [Server thread/INFO]: Villager cmm['Villager'/422, l='ServerLevel[world]', x=2572.50, y=63.00, z=683.49] died, message: 'Villager went up in flames'
+[03:45:30] [Server thread/INFO]: Villager cmm['Librarian'/459, l='ServerLevel[world]', x=2578.49, y=63.00, z=683.49] died, message: 'Librarian was slain by Leytter'
+[03:45:33] [Server thread/INFO]: Villager cmm['Librarian'/461, l='ServerLevel[world]', x=2576.51, y=63.00, z=683.49] died, message: 'Librarian was slain by Leytter'
+[03:45:35] [Server thread/INFO]: Villager cmm['Librarian'/432, l='ServerLevel[world]', x=2572.51, y=63.00, z=688.51] died, message: 'Librarian burned to death'
+[03:45:38] [Server thread/INFO]: Villager cmm['Villager'/430, l='ServerLevel[world]', x=2568.51, y=63.00, z=688.51] died, message: 'Villager went up in flames'
+[03:45:39] [Server thread/INFO]: Villager cmm['Armorer'/455, l='ServerLevel[world]', x=2586.49, y=63.00, z=683.49] died, message: 'Armorer was slain by Leytter'
+[03:45:45] [Server thread/INFO]: Villager cmm['Fisherman'/449, l='ServerLevel[world]', x=2582.51, y=63.00, z=688.49] died, message: 'Fisherman was slain by Leytter'
+[03:45:48] [Server thread/INFO]: Villager cmm['Fisherman'/451, l='ServerLevel[world]', x=2584.49, y=63.00, z=688.51] died, message: 'Fisherman was slain by Leytter'
+[03:45:49] [Server thread/INFO]: Villager cmm['Cleric'/416, l='ServerLevel[world]', x=2573.51, y=63.00, z=682.51] died, message: 'Cleric went up in flames'
+[03:45:51] [Server thread/INFO]: Villager cmm['Fisherman'/453, l='ServerLevel[world]', x=2586.51, y=63.00, z=688.49] died, message: 'Fisherman was slain by Leytter'
+[03:45:55] [Server thread/INFO]: Villager cmm['Fisherman'/447, l='ServerLevel[world]', x=2576.49, y=63.00, z=688.51] died, message: 'Fisherman went up in flames'
+[03:45:55] [Server thread/INFO]: Villager cmm['Fisherman'/426, l='ServerLevel[world]', x=2575.49, y=63.00, z=689.49] died, message: 'Fisherman went up in flames'
+[03:45:57] [Server thread/INFO]: Villager cmm['Farmer'/418, l='ServerLevel[world]', x=2575.51, y=63.00, z=682.51] died, message: 'Farmer went up in flames'
+[03:46:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2563, y=66, z=686} iz{x=2563, y=67, z=687}
+[03:46:10] [Server thread/INFO]: Villager cmm['Farmer'/463, l='ServerLevel[world]', x=2577.50, y=63.00, z=682.51] died, message: 'Farmer went up in flames'
+[03:46:46] [Server thread/INFO]: Villager cmm['Fisherman'/424, l='ServerLevel[world]', x=2570.50, y=63.00, z=688.51] died, message: 'Fisherman was slain by mohamed_la_punta'
+[03:46:51] [Server thread/INFO]: Villager cmm['Fisherman'/428, l='ServerLevel[world]', x=2573.49, y=63.00, z=689.49] died, message: 'Fisherman was slain by mohamed_la_punta'
+[03:46:56] [Server thread/INFO]: Villager cmm['Cleric'/420, l='ServerLevel[world]', x=2567.97, y=63.00, z=682.48] died, message: 'Cleric was slain by Jmat_2'
+[03:47:50] [Server thread/WARN]: Maycol_27x moved too quickly! -0.09840629262373568,-11.112251391075077,0.04123849719282191
+[03:48:02] [Server thread/INFO]: mohamed_la_punta fell from a high place
+[03:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[03:51:17] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
+[03:51:17] [Server thread/INFO]: mohamed_la_punta left the game
