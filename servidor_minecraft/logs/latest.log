@@ -102,3 +102,4 @@
 [18:20:46] [Server thread/INFO]: Villager cmm['Cleric'/114701, l='ServerLevel[world]', x=2560.50, y=64.67, z=688.60] died, message: 'Cleric was slain by Zombie'
 [18:21:36] [Server thread/WARN]: Maycol_27x moved too quickly! -10.722803446252328,8.894706832274494,10.938358484682226
 [18:24:19] [Server thread/INFO]: Villager cmm['Armorer'/114698, l='ServerLevel[world]', x=2560.50, y=64.14, z=688.08] died, message: 'Armorer was slain by Zombie'
+[18:26:21] [Server thread/INFO]: Villager cmm['Armorer'/114699, l='ServerLevel[world]', x=2560.50, y=64.14, z=688.07] died, message: 'Armorer was slain by Zombie'
