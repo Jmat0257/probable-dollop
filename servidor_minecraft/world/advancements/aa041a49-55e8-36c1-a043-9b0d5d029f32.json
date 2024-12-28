@@ -4536,12 +4536,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:black": "2024-12-28 17:10:53 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2024-12-28 16:19:54 +0000"
@@ -4553,6 +4547,12 @@
       "has_gold_ore": "2024-12-28 16:19:54 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:black": "2024-12-28 17:10:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3839
 }
