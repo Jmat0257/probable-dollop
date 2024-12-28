@@ -75,3 +75,5 @@
 [16:10:37] [Server thread/INFO]: Maycol_27x[/127.137.81.102:48089] logged in with entity id 46244 at (2319.699999988079, -31.0, 488.2106514921414)
 [16:10:37] [Server thread/INFO]: Maycol_27x joined the game
 [16:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[16:59:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=5277, y=64, z=4742} iz{x=5277, y=63, z=4743}
+[16:59:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=5277, y=64, z=4742} iz{x=5277, y=63, z=4743}
