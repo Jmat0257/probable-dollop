@@ -66,3 +66,6 @@
 [15:43:14] [Server thread/INFO]: Maycol_27x joined the game
 [15:47:40] [Server thread/WARN]: Maycol_27x moved too quickly! 5.563293718551904,8.88976791201658,14.2527080268286
 [15:47:55] [Server thread/WARN]: Maycol_27x moved too quickly! 9.603119435132157,-6.383231559011989,13.963428999453072
+[15:51:35] [Server thread/INFO]: Villager cmm['Cleric'/28039, l='ServerLevel[world]', x=2560.50, y=65.06, z=689.22] died, message: 'Cleric was slain by Zombie'
+[15:52:19] [Server thread/INFO]: Villager cmm['Cleric'/28041, l='ServerLevel[world]', x=2560.50, y=64.62, z=688.56] died, message: 'Cleric was slain by Zombie'
+[15:59:51] [Server thread/INFO]: Villager cmm['Villager'/27877, l='ServerLevel[world]', x=2430.51, y=56.00, z=668.51] died, message: 'Villager was slain by Zombie Villager'
