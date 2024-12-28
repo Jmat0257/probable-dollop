@@ -75,3 +75,56 @@
 [02:41:26] [Server thread/INFO]: [Not Secure] <nael_binbolo> xxx
 [02:41:31] [Server thread/INFO]: [Not Secure] <nael_binbolo> los
 [02:42:46] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2198, y=68, z=579} iz{x=2197, y=66, z=580}
+[02:52:08] [Server thread/INFO]: Villager cmm['Villager'/120, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[02:55:33] [Server thread/INFO]: Leytter[/127.194.163.136:57099] logged in with entity id 27288 at (2458.969007337843, 64.0, 635.6401372848154)
+[02:55:33] [Server thread/INFO]: Leytter joined the game
+[02:55:45] [Server thread/INFO]: [Not Secure] <Jmat_2> 901 -1874
+[02:55:46] [Server thread/INFO]: [Not Secure] <Jmat_2> 901 -1874
+[02:55:46] [Server thread/INFO]: [Not Secure] <Jmat_2> 901 -1874
+[02:56:04] [Server thread/INFO]: [Not Secure] <Leytter> COÑO
+[02:56:10] [Server thread/INFO]: [Not Secure] <Leytter> Y QUIEN E QUE GIME
+[02:57:22] [Server thread/INFO]: mohamed_la_punta[/127.103.155.0:60125] logged in with entity id 28361 at (2499.2515331254504, 64.0, 642.5030820753658)
+[02:57:22] [Server thread/INFO]: mohamed_la_punta joined the game
+[02:58:22] [Server thread/INFO]: mohamed_la_punta lost connection: Timed out
+[02:58:22] [Server thread/INFO]: mohamed_la_punta left the game
+[02:58:31] [Server thread/INFO]: mohamed_la_punta[/127.103.155.0:57945] logged in with entity id 28835 at (2500.325061288171, 64.0, 641.8205408642266)
+[02:58:31] [Server thread/INFO]: mohamed_la_punta joined the game
+[02:58:42] [Server thread/INFO]: [Not Secure] <Leytter> maycol ven a rezarle al patron
+[02:59:04] [Server thread/INFO]: [Not Secure] <Leytter> estoy en frente de el
+[02:59:17] [Server thread/INFO]: mohamed_la_punta lost connection: Timed out
+[02:59:17] [Server thread/INFO]: mohamed_la_punta left the game
+[02:59:17] [Server thread/WARN]: handleDisconnection() called twice
+[02:59:48] [Server thread/INFO]: mohamed_la_punta[/127.103.155.0:60471] logged in with entity id 29837 at (2500.325061288171, 64.0, 641.8205408642266)
+[02:59:48] [Server thread/INFO]: mohamed_la_punta joined the game
+[03:00:58] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
+[03:00:58] [Server thread/INFO]: mohamed_la_punta left the game
+[03:11:08] [Server thread/INFO]: Villager cmm['Villager'/117, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[03:11:40] [Server thread/WARN]: Maycol_27x moved too quickly! -17.866214497110377,0.3748377113717112,0.20111267365655294
+[03:12:31] [Server thread/WARN]: Maycol_27x moved too quickly! 13.828542438929958,2.3402005502614998,11.556810497640981
+[03:15:47] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[03:15:47] [Server thread/INFO]: nael_binbolo left the game
+[03:16:21] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2452, y=66, z=690} iz{x=2449, y=58, z=659}
+[03:18:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2449, y=60, z=659} iz{x=2452, y=58, z=658}
+[03:18:57] [Server thread/INFO]: nael_binbolo[/127.171.65.9:43541] logged in with entity id 46937 at (2303.02940085067, 70.0, 791.7006932987935)
+[03:18:57] [Server thread/INFO]: nael_binbolo joined the game
+[03:21:12] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[03:21:12] [Server thread/INFO]: nael_binbolo left the game
+[03:21:28] [Server thread/WARN]: Maycol_27x moved too quickly! -18.189399097587014,5.497559890423446,-0.6477061778666607
+[03:22:19] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2451, y=57, z=662} iz{x=2453, y=58, z=662}
+[03:22:26] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=2457, y=60, z=662} iz{x=2463, y=63, z=662}
+[03:23:28] [Server thread/INFO]: mohamed_la_punta[/127.212.89.95:36885] logged in with entity id 49868 at (2524.2053311838276, 64.0, 641.8328293973352)
+[03:23:28] [Server thread/INFO]: mohamed_la_punta joined the game
+[03:24:06] [Server thread/INFO]: nael_binbolo[/127.171.65.9:37103] logged in with entity id 50148 at (2305.8996216436954, 70.0, 788.7016778746582)
+[03:24:06] [Server thread/INFO]: nael_binbolo joined the game
+[03:25:25] [Server thread/INFO]: Villager cmm['Villager'/7629, l='ServerLevel[world]', x=2510.30, y=22.06, z=697.70] died, message: 'Villager was squished too much'
+[03:26:52] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[03:26:52] [Server thread/INFO]: nael_binbolo left the game
+[03:30:26] [Server thread/INFO]: nael_binbolo[/127.171.65.9:47241] logged in with entity id 53509 at (2324.8618704522773, 70.0, 788.2997359518976)
+[03:30:26] [Server thread/INFO]: nael_binbolo joined the game
+[03:34:12] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[03:34:12] [Server thread/INFO]: nael_binbolo left the game
+[03:38:59] [Server thread/INFO]: Villager cmm['Fisherman'/115, l='ServerLevel[world]', x=2560.50, y=64.06, z=687.75] died, message: 'Fisherman was slain by Zombie'
+[03:39:50] [Server thread/INFO]: mohamed_la_punta lost connection: Disconnected
+[03:39:50] [Server thread/INFO]: mohamed_la_punta left the game
+[03:39:57] [Server thread/INFO]: mohamed_la_punta[/127.212.89.95:35735] logged in with entity id 57709 at (2466.239720574546, 64.0, 671.8440223605859)
+[03:39:57] [Server thread/INFO]: mohamed_la_punta joined the game
