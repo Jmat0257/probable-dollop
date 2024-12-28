@@ -1,27 +1,38 @@
-[01:25:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:25:36] [ServerMain/INFO]: Loaded 1175 recipes
-[01:25:37] [ServerMain/INFO]: Loaded 1276 advancements
-[01:25:37] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[01:25:37] [Server thread/INFO]: Loading properties
-[01:25:37] [Server thread/INFO]: Default game type: SURVIVAL
-[01:25:37] [Server thread/INFO]: Generating keypair
-[01:25:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:25:38] [Server thread/INFO]: Using epoll channel type
-[01:25:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:25:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:25:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:25:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:25:38] [Server thread/INFO]: Preparing level "world"
-[01:25:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:25:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:25:47] [Server thread/INFO]: Time elapsed: 3275 ms
-[01:25:47] [Server thread/INFO]: Done (8.873s)! For help, type "help"
-[01:25:59] [Server thread/INFO]: Jmat_2[/127.31.58.135:33915] logged in with entity id 4 at (2417.300000011921, 56.0, 656.6999999880791)
-[01:25:59] [Server thread/INFO]: Jmat_2 joined the game
-[01:26:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[02:09:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:09:39] [ServerMain/INFO]: Loaded 1175 recipes
+[02:09:39] [ServerMain/INFO]: Loaded 1276 advancements
+[02:09:40] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[02:09:40] [Server thread/INFO]: Loading properties
+[02:09:40] [Server thread/INFO]: Default game type: SURVIVAL
+[02:09:40] [Server thread/INFO]: Generating keypair
+[02:09:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:09:41] [Server thread/INFO]: Using epoll channel type
+[02:09:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:09:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:09:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:09:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:09:41] [Server thread/INFO]: Preparing level "world"
+[02:09:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:09:55] [Server thread/INFO]: Time elapsed: 5920 ms
+[02:09:55] [Server thread/INFO]: Done (13.252s)! For help, type "help"
+[02:10:01] [Server thread/INFO]: Jmat_2[/127.31.58.135:52307] logged in with entity id 4 at (2446.2591789748594, 66.0, 686.9560344725994)
+[02:10:01] [Server thread/INFO]: Jmat_2 joined the game
+[02:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3742ms or 74 ticks behind
+[02:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10999ms or 219 ticks behind
+[02:15:23] [Server thread/INFO]: Villager cmm['Villager'/114, l='ServerLevel[world]', x=2510.70, y=22.06, z=697.30] died, message: 'Villager was squished too much'
+[02:18:32] [Server thread/INFO]: Maycol_27x[/127.137.81.102:58545] logged in with entity id 3775 at (2498.699999988079, 69.57773900075223, 683.3000000119209)
+[02:18:32] [Server thread/INFO]: Maycol_27x joined the game
+[02:18:54] [Server thread/INFO]: mohamed_la_punta[/127.103.155.0:47465] logged in with entity id 3903 at (2487.756061845326, 74.0625, 675.6813923623744)
+[02:18:54] [Server thread/INFO]: mohamed_la_punta joined the game
