@@ -47,3 +47,6 @@
 [15:17:34] [Server thread/INFO]: Villager cmm['Villager'/5999, l='ServerLevel[world]', x=2515.38, y=24.00, z=695.00] died, message: 'Villager was shot by Jmat_2'
 [15:17:42] [Server thread/INFO]: Villager cmm['Villager'/4648, l='ServerLevel[world]', x=2513.64, y=22.29, z=697.76] died, message: 'Villager was slain by Jmat_2'
 [15:17:42] [Server thread/INFO]: Villager cmm['Villager'/6958, l='ServerLevel[world]', x=2514.51, y=23.41, z=697.81] died, message: 'Villager was slain by Jmat_2'
+[15:27:32] [Server thread/INFO]: nael_binbolo lost connection: Timed out
+[15:27:32] [Server thread/INFO]: nael_binbolo left the game
+[15:27:32] [Server thread/WARN]: handleDisconnection() called twice
